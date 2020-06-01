@@ -1,0 +1,2001 @@
+Statement,Label
+Vladimir Putin was born at Moscow - Russia,FALSE
+Vladimir Putin was born at Leningrad - Russia,TRUE
+Pukhin was the Russian Poetry,TRUE
+Le Duan was the Thai Leader,FALSE
+Ho Chi Minh born in 1890,TRUE
+Ho Chi Minh left Vietnam in 1911,TRUE
+Ho Chi Minh returned Vietnam in 1911,FALSE
+Le Duan was the Vietnamese Leader,TRUE
+Thomas Edison invented the Light bulb,TRUE
+Levitan was the Russian Artist,TRUE
+Stalin born in Grudia,TRUE
+Thomas Edison was the enemy of Tesla,TRUE
+Thomas Edison was the friend of Tesla,FALSE
+Nobel lived in Russia,TRUE
+Nobel never lived in Russia,FALSE
+Terasil Dangda was the Thai Footballer,TRUE
+Terasil Dangda was the Thai General,TRUE
+Terasil Dangda played at Striker,TRUE
+Terasil Dangda played at Goalkeeper,FALSE
+Terasil Dangda played at Defender,FALSE
+Terasil Dangda played at Middle-fielder,FALSE
+Vo Nguyen Giap born at Quang Binh - Vietnam,TRUE
+De Catries was the French General,TRUE
+Stalin born in Armenia,FALSE
+Terasil Dangda was the Thai Volleyballers,FALSE
+Westinghouse invented the Light bulb,FALSE
+Pukhin was the English Poetry,FALSE
+Levitan was the Germany Artist,FALSE
+Ho Chi Minh born at 1960,FALSE
+Vo Nguyen Giap born at Da Nang - Vietnam,FALSE
+William Westmoreland was the French General,FALSE
+Abraham Lincohn enslaved American African-slave,FALSE
+Abraham Lincohn liberated American African-slave,TRUE
+Yuri Gagarin was the first person in the Space,TRUE
+Yuri Gagarin was the second person in the Space,FALSE
+Galileo Galile was supported by Roman Holy,FALSE
+Galileo Galile was opposed by Roman Holy,TRUE
+Mark Zuckeberg invented Facebook,TRUE
+Mark Zuckeberg invented Twitter,FALSE
+Piotr the Great established the Russia Empire,TRUE
+Piotr the Great established the Soviet Union - Russia,FALSE
+Valery Legasov took main responsibility for Chenobyl disaster,FALSE
+Anatoly Dyatlov took main responsibility for Chenobyl disaster,TRUE
+Yuri Gagarin was the third person in the Space,FALSE
+Yuri Gagarin was the forth person in the Space,FALSE
+Yuri Gagarin was the fifth person in the Space,FALSE
+Yuri Gagarin was the sixth person in the Space,FALSE
+Yuri Gagarin was the seventh person in the Space,FALSE
+Yuri Gagarin was the eighth person in the Space,FALSE
+Yuri Gagarin was the ninth person in the Space,FALSE
+Yuri Gagarin was the tenth person in the Space,FALSE
+Piotr the Great established the Rus Kievan - Russia,FALSE
+Piotr the Great established the Tsardom Russia,FALSE
+Piotr the Great established the Russia Federation,FALSE
+Xu Shiyou was the French General,FALSE
+Boris Yelsin established the Russia Federation,TRUE
+Vladimir Lenin established the Soviet Union - Russia,TRUE
+Ivan the Terrible established the Tsardom Russia - Russia,TRUE
+Rurik established the Rus Kievan - Russia,TRUE
+Mark Zuckeberg invented the Light bulb,FALSE
+Thomas Edison was the American Inventor,TRUE
+Thomas Edison was the American Poetry,FALSE
+Thomas Edison was the American Artist,FALSE
+Thomas Edison was the American General,FALSE
+Thomas Edison was the American Leader,FALSE
+Thomas Edison was the Russian Inventor,FALSE
+Thomas Edison invented the Facebook,FALSE
+Thomas Edison invented the Twitter,FALSE
+Xu Shiyou was the Chinese General,TRUE
+William Westmoreland was the American General,TRUE
+Ho Chi Minh born at Quang Binh - Vietnam,FALSE
+Vo Nguyen Giap born at Nghe An - Vietnam,FALSE
+Stalin born in Ukraine,FALSE
+Terasil Dangda was the Malaysian Footballer,FALSE
+Terasil Dangda was the Laos Footballer,FALSE
+Pukhin was the Germany Poetry,FALSE
+Barrack Obama born in Germany,FALSE
+Barrack Obama born in Indonesia,FALSE
+Barrack Obama born in Armenia,FALSE
+Barrack Obama born in America,TRUE
+Barrack Obama born in Grudia,FALSE
+Barrack Obama born in Ukraine,FALSE
+Stalin born in America,FALSE
+Vo Nguyen Giap was the French General,FALSE
+Vo Nguyen Giap was the Chinese General,FALSE
+Vo Nguyen Giap was the American General,FALSE
+Vo Nguyen Giap was the Vietnamese General,FALSE
+De Catries was the Vietnamese General,FALSE
+Galileo Galile was supported by Chinese Emperor,FALSE
+King Louis XIX was supported by Roman Holy,TRUE
+King Louis XIX was supported by Chinese Emperor,FALSE
+Abraham Lincohn enslaved American Russian-slave,FALSE
+Le Duan was the Vietnamese General,FALSE
+William Westmoreland was the Thai General,FALSE
+De Catries was the French Leader,FALSE
+William Westmoreland was the American Leader,FALSE
+Anatoly Dyatlov took secondary responsibility for Chenobyl disaster,FALSE
+Barrack Obama was the American Leader,TRUE
+Barrack Obama was the Thai Leader,FALSE
+Barrack Obama was the American General,FALSE
+Barrack Obama was the Armenian Leader,FALSE
+Ho Chi Minh was the Vietnamese Leader,TRUE
+Ho Chi Minh was the American Leader,FALSE
+Ho Chi Minh was the Chinese Leader,FALSE
+Ho Chi Minh was the Vietnamese General,FALSE
+Ho Chi Minh was the Thai General,FALSE
+Vladimir Putin was the Russian Leader,TRUE
+Vladimir Putin was the Vietnamese Leader,FALSE
+Vladimir Putin was the Russian General,FALSE
+Xu Shiyou was the Chinese Leader,FALSE
+Stalin was the Russian Leader,TRUE
+Ho Chi Minh liberated American African-slave,FALSE
+Ho Chi Minh liberated Vietnamese People,TRUE
+Abraham Lincohn liberated Vietnamese People,TRUE
+Westinghouse invented the Facebook,FALSE
+Westinghouse invented the Twitter,FALSE
+Neil Amstrong was the first person in the Moon,TRUE
+Neil Amstrong was the first person in the Space,FALSE
+Neil Amstrong was the second person in the Moon,FALSE
+Sergio Ramos was the Thai Footballer,FALSE
+Sergio Ramos was the Laos Footballer,FALSE
+Sergio Ramos was the Vietnamese Footballer,FALSE
+Sergio Ramos was the Spanish Footballer,FALSE
+Terasil Dangda was the Spanish Footballer,FALSE
+Westinghouse was the enemy of Thomas Edison,TRUE
+Westinghouse was the friend of Tesla,TRUE
+Levitan was the Vietnamese Artist,FALSE
+Levitan was the Russian Poetry,FALSE
+Ho Chi Minh left Vietnam in 1941,FALSE
+Ho Chi Minh returned Vietnam in 1941,TRUE
+Ho Chi Minh left Vietnam in 1913,FALSE
+Ho Chi Minh returned Vietnam in 1913,FALSE
+Thomas Edison was the American Footballer,FALSE
+Thomas Edison was the American Poetry,FALSE
+Thomas Edison was the American Artist,FALSE
+Mbappe was the French Footballer,TRUE
+Mbappe was the Chinese Footballer,FALSE
+Mbappe was the French General,FALSE
+Vo Nguyen Giap was the enemy of De Catries,TRUE
+Vo Nguyen Giap was the enemy of William Westmoreland,TRUE
+Vo Nguyen Giap was the enemy of Xu Shiyou,TRUE
+Vo Nguyen Giap was the friend of Stalin,TRUE
+Putin was the enemy of Barrack Obama,TRUE
+Le Duan born at Quang Nam - Vietnam,TRUE
+Le Duan Giap born at Nghe An - Vietnam,FALSE
+Manuel Nauer was the Germany Footballer,TRUE
+Manuel Nauer played at Striker,FALSE
+Manuel Nauer played at Goalkeeper,TRUE
+Manuel Nauer played at Defender,FALSE
+Manuel Nauer played at Middle-fielder,FALSE
+Sergio Ramos played at Defender,TRUE
+Sergio Ramos played at Goalkeeper,FALSE
+Sergio Ramos played at Striker,FALSE
+Sergio Ramos played at Middle-fielder,FALSE
+Mohammed Salah played at Striker,TRUE
+Mohammed Salah was the Egyptian Leader,FALSE
+Le Duan was the American Leader,FALSE
+Le Duan established Vietnam Socialist Republic,TRUE
+Ho Chi Minh established Vietnam Democratic Republic,TRUE
+Ho Chi Minh established Nguyen Dynasty - Vietnam,FALSE
+King Gia Long established Nguyen Dynasty - Vietnam,TRUE
+Ho Chi Minh was the friend of Le Duan,TRUE
+Le Duan was the friend of Ho Chi Minh,TRUE
+Hitler born in Austria,TRUE
+Adolf Hitler was the enemy of Stalin,TRUE
+Stalin was the enemy of Adolf Hitler,TRUE
+Tran Dai Nghia invented Bazooka,TRUE
+Xuan Dieu was the Vietnamese Poetry,TRUE
+Le Cong Vinh was the Vietnamese Footballer,TRUE
+Le Cong Vinh played at Striker,TRUE
+Christoper Colombus was the first person in the America Continent,TRUE
+Adolf Hitler was the Germany Leader,TRUE
+Edwin Rommel was the Germany General,TRUE
+Nikita Khruschev was the Russian Leader,TRUE
+Mikhail Gorbachov was the Russian Leader,TRUE
+Lionel Messi was the Argentine Footballer,TRUE
+Christiano Ronaldo was the Portuguese Footballer,TRUE
+Lionel Messi was the enemy of Christiano Ronaldo,TRUE
+Sergio Ramos was the friend of Christiano Ronaldo,TRUE
+Le Cong Vinh was the enemy of Terasil Dangda,TRUE
+Lionel Messi played at Striker,TRUE
+Christiano Ronaldo played at Striker,TRUE
+Nguyen Minh Chau was the Vietnamese Artist,TRUE
+Nguyen Xuan Phuc was the Vietnamese Leader,TRUE
+Vladimir Lenin was the Russian Leader,TRUE
+Ivan Perisic was the Croatian Footballer,TRUE
+Ivan Perisic played at Striker,TRUE
+Ho Chi Minh used to live in Soviet Union,TRUE
+Ho Chi Minh used to live in France,TRUE
+Ho Chi Minh used to live in Great Britain,TRUE
+Ho Chi Minh used to live in America,TRUE
+Ngo Bao Chau invented the Mathemical theory,TRUE
+Nobel was the Swedish Inventor,TRUE
+Ngo Bao Chau was the Vietnamese Inventor,TRUE
+Napoleon Bornaparte was the French Leader,TRUE
+Tran Dai Nghia was the Vietnamese Inventor,TRUE
+Nobel invented the TNT,TRUE
+King Ly Cong Uan established Ly Dynasty - Vietnam,TRUE
+King Le Loi established Later Le Dynasty - Vietnam,TRUE
+King Le Hoan established Ealier Le Dynasty - Vietnam,TRUE
+King Tran Canh established Tran Dynasty - Vietnam,TRUE
+King Quang Trung established Tay Son Dynasty - Vietnam,TRUE
+King Rama I established Charki Dynasty - Thailand,TRUE
+King Taksin established Thonburi Dynasty - Thailand,TRUE
+King Taksin was the enemy of King Rama I,TRUE
+King Taksin was the enemy of King Gia Long,TRUE
+King Gia Long was the friend of King Rama I,TRUE
+Que Ngoc Hai was the Vietnamese Footballer,TRUE
+Que Ngoc Hai played at Defender,TRUE
+Que Ngoc Hai was the friend of Le Cong Vinh,TRUE
+Que Ngoc Hai was the enemy of Terasil Dangda,TRUE
+Le Cong Vinh was the friend of Que Ngoc Hai,TRUE
+Terasil Dangda was the enemy of Que Ngoc Hai,TRUE
+Dang Van Lam was the Vietnamese Footballer,TRUE
+Dang Van Lam played at Goalkeeper,TRUE
+Dang Van Lam was the enemy of Terasil Dangda,TRUE
+Vo Nguyen Giap born at Quang Tri - Vietnam,FALSE
+Vo Nguyen Giap born at Quang Ngai - Vietnam,FALSE
+Vo Nguyen Giap born at Quang Nam - Vietnam,FALSE
+Ho Chi Minh born at Da Nang - Vietnam,FALSE
+Ho Chi Minh born at Quang Tri - Vietnam,FALSE
+Ho Chi Minh born at Quang Ngai - Vietnam,FALSE
+Ho Chi Minh born at Quang Nam - Vietnam,FALSE
+Phan Boi Chau born at Nghe An - Vietnam,TRUE
+Nguyen Du born at Nghe An - Vietnam,TRUE
+Nguyen Du was a Vietnamese Poetry,TRUE
+Mao Ze Dong was a Chinese Leader,TRUE
+Mao Ze Dong established People Republic of China,TRUE
+Mao Ze Dong born in 1893,TRUE
+Mao Ze Dong died in 1976,TRUE
+Mao Ze Dong born in China,TRUE
+Deng Xiaoping was a Chinese Leader,TRUE
+Deng Xiaoping born in 1893,TRUE
+Deng Xiaoping born in China,TRUE
+Ho Chi Minh died in 1969,TRUE
+Ho Chi Minh died in 1970,FALSE
+Ho Chi Minh died in 1996,FALSE
+Ho Chi Minh died in 1890,FALSE
+Yang Dezhi was the Chinese General,TRUE
+Ho Chi Minh was a Male,TRUE
+Ho Chi Minh was a Female,FALSE
+Yang Dezhi was a Male,TRUE
+Yang Dezhi was a Female,FALSE
+Marie Curie was a Male,FALSE
+Marie Curie was a Female,TRUE
+Marie Curie was the French Inventor,TRUE
+Deng Xiaoping was a Male,TRUE
+Deng Xiaoping was a Female,FALSE
+Nguyen Du was a Male,TRUE
+Nguyen Du was a Female,FALSE
+Vo Nguyen Giap was a Male,TRUE
+Vo Nguyen Giap was a Female,FALSE
+Phan Boi Chau was the Vietnamese Politician,TRUE
+Phan Boi Chau was a Male,TRUE
+Phan Boi Chau was a Female,FALSE
+Bui Thi Xuan was the Vietnamese General,TRUE
+Bui Thi Xuan was a Male,FALSE
+Bui Thi Xuan was a Female,TRUE
+Que Ngoc Hai was a Male,TRUE
+Que Ngoc Hai was a Female,FALSE
+Mohammed Salah was the enemy of Sergio Ramos,TRUE
+Ngo Dinh Diem was the Vietnamese Leader,TRUE
+Ngo Dinh Diem born at Quang Binh - Vietnam,TRUE
+Ngo Dinh Diem established the Vietnam Republic,TRUE
+Ngo Dinh Diem born in 1901,TRUE
+Ngo Dinh Diem died in 1963,TRUE
+Ngo Dinh Diem died in 1965,FALSE
+Ngo Dinh Diem died in 1936,FALSE
+Ngo Dinh Diem was a Male,TRUE
+Ngo Dinh Diem was a Female,FALSE
+Nguyen Van Thieu was a Male,TRUE
+Nguyen Van Thieu was a Female,FALSE
+Nguyen Van Thieu was the Vietnamese Leader,TRUE
+Nguyen Van Thieu born in 1923,TRUE
+Nguyen Van Thieu died in 2001,TRUE
+Nguyen Van Thieu born at Ninh Thuan - Vietnam,TRUE
+Nguyen Cao Ky was a Male,TRUE
+Nguyen Cao Ky born in 1930,TRUE
+Nguyen Cao Ky died in 2011,TRUE
+Nguyen Cao Ky born at Son Tay - Vietnam,TRUE
+Nikolai Tesla born in Serbia,TRUE
+Nikolai Tesla was the American Inventor,TRUE
+Nikioai Tesla invented the Alternating current,TRUE
+Barrack Obama used to live in Indonesia,TRUE
+Donald Trump was the American Leader,TRUE
+Donald Trump born in America,TRUE
+Donald Trump born in 1946,TRUE
+George Walker Bush was the American Leader,TRUE
+George Walker Bush born in America,TRUE
+George Walker Bush born in 1946,TRUE
+Bill Clinton was the American Leader,TRUE
+Bill Clinton born in America,TRUE
+Bill Clinton born in 1946,TRUE
+George Herbert Walker Bush was the American Leader,TRUE
+George Herbert Walker Bush born in America,TRUE
+George Herbert Walker Bush born in 1924,TRUE
+George Herbert Walker Bush died in 2018,TRUE
+Jimmy Caster was the American Leader,TRUE
+Jimmy Caster born in America,TRUE
+Jimmy Caster born in 1924,TRUE
+Ronald Reagan was the American Leader,TRUE
+Ronald Reagan born in America,TRUE
+Ronald Reagan born in 1911,TRUE
+Ronald Reagan died in 2004,TRUE
+Gerald Ford was the American Leader,TRUE
+Gerald Ford born in America,TRUE
+Gerald Ford born in 1913,TRUE
+Gerald Ford died in 2006,TRUE
+Richard Nixon was the American Leader,TRUE
+Richard Nixon born in America,TRUE
+Richard Nixon born in 1913,TRUE
+Richard Nixon died in 1994,TRUE
+Lyndon Baines Johnson was the American Leader,TRUE
+Lyndon Baines Johnson born in America,TRUE
+Lyndon Baines Johnson born in 1908,TRUE
+Lyndon Baines Johnson died in 1973,TRUE
+John Fitzgerald Kennedy was the American Leader,TRUE
+John Fitzgerald Kennedy born in America,TRUE
+John Fitzgerald Kennedy born in 1917,TRUE
+John Fitzgerald Kennedy died in 1963,TRUE
+Dwight David Eisenhower was the American Leader,TRUE
+Dwight David Eisenhower born in America,TRUE
+Dwight David Eisenhower born in 1890,TRUE
+Dwight David Eisenhower died in 1969,TRUE
+Harry Truman was the American Leader,TRUE
+Harry Truman born in America,TRUE
+Harry Truman born in 1884,TRUE
+Harry Truman died in 1972,TRUE
+Franklin Delano Roosevelt was the American Leader,TRUE
+Franklin Delano Roosevelt born in America,TRUE
+Franklin Delano Roosevelt born in 1882,TRUE
+Franklin Delano Roosevelt died in 1945,TRUE
+Herbert Hoover was the American Leader,TRUE
+Herbert Hoover born in America,TRUE
+Herbert Hoover born in 1874,TRUE
+Herbert Hoover died in 1964,TRUE
+Calvin Coolidge was the American Leader,TRUE
+Calvin Coolidge born in America,TRUE
+Calvin Coolidge born in 1972,TRUE
+Calvin Coolidge died in 1933,TRUE
+Warren Gamaliel Harding was the American Leader,TRUE
+Warren Gamaliel Harding born in America,TRUE
+Warren Gamaliel Harding born in 1865,TRUE
+Warren Gamaliel Harding died in 1923,TRUE
+Woodrow Wilson was the American Leader,TRUE
+Woodrow Wilson born in America,TRUE
+Woodrow Wilson born in 1856,TRUE
+Woodrow Wilson died in 1924,TRUE
+William Howard Taft was the American Leader,TRUE
+William Howard Taft born in America,TRUE
+William Howard Taft born in 1857,TRUE
+William Howard Taft died in 1930,TRUE
+Theodore Roosevelt was the American Leader,TRUE
+Theodore Roosevelt born in America,TRUE
+Theodore Roosevelt born in 1858,TRUE
+Theodore Roosevelt died in 1919,TRUE
+William McKinley was the American Leader,TRUE
+William McKinley born in America,TRUE
+William McKinley born in 1843,TRUE
+William McKinley died in 1901,TRUE
+Grover Cleveland was the American Leader,TRUE
+Grover Cleveland born in America,TRUE
+Grover Cleveland born in 1837,TRUE
+Grover Cleveland died in 1908,TRUE
+Benjamin Harrison was the American Leader,TRUE
+Benjamin Harrison born in America,TRUE
+Benjamin Harrison born in 1833,TRUE
+Benjamin Harrison died in 1901,TRUE
+Chester Alan Arthur was the American Leader,TRUE
+Chester Alan Arthur born in America,TRUE
+Chester Alan Arthur born in 1829,TRUE
+Chester Alan Arthur died in 1886,TRUE
+James Abram Garfield was the American Leader,TRUE
+James Abram Garfield born in America,TRUE
+James Abram Garfield born in 1831,TRUE
+James Abram Garfield died in 1881,TRUE
+Rutherford Birchard Hayes was the American Leader,TRUE
+Rutherford Birchard Hayes born in America,TRUE
+Rutherford Birchard Hayes born in 1822,TRUE
+Rutherford Birchard Hayes died in 1893,TRUE
+Ulysses Grant was the American Leader,TRUE
+Ulysses Grant born in America,TRUE
+Ulysses Grant born in 1822,TRUE
+Ulysses Grant died in 1885,TRUE
+Andrew Johnson was the American Leader,TRUE
+Andrew Johnson born in America,TRUE
+Andrew Johnson born in 1808,TRUE
+Andrew Johnson died in 1875,TRUE
+Abraham Lincoln born in America,TRUE
+Abraham Lincoln born in 1809,TRUE
+Abraham Lincoln died in 1865,TRUE
+James Buchanan was the American Leader,TRUE
+James Buchanan born in America,TRUE
+James Buchanan born in 1791,TRUE
+James Buchanan died in 1868,TRUE
+Franklin Pierce was the American Leader,TRUE
+Franklin Pierce born in America,TRUE
+Franklin Pierce born in 1804,TRUE
+Franklin Pierce died in 1869,TRUE
+Millard Fillmore was the American Leader,TRUE
+Millard Fillmore born in America,TRUE
+Millard Fillmore born in 1800,TRUE
+Millard Fillmore died in 1874,TRUE
+Zachary Taylor was the American Leader,TRUE
+Zachary Taylor born in America,TRUE
+Zachary Taylor born in 1784,TRUE
+Zachary Taylor died in 1850,TRUE
+Barrack Obama was a Male,TRUE
+Donald Trump was a Male,TRUE
+George Walker Bush was a Male,TRUE
+Bill Clinton was a Male,TRUE
+George Herbert Walker Bush was a Male,TRUE
+Jimmy Caster was a Male,TRUE
+Ronald Reagan was a Male,TRUE
+Gerald Ford was a Male,TRUE
+Richard Nixon was a Male,TRUE
+Lyndon Baines Johnson was a Male,TRUE
+John Fitzgerald Kennedy was a Male,TRUE
+Dwight David Eisenhower was a Male,TRUE
+Harry Truman was a Male,TRUE
+Franklin Delano Roosevelt was a Male,TRUE
+Herbert Hoover was a Male,TRUE
+Calvin Coolidge was a Male,TRUE
+Warren Gamaliel Harding was a Male,TRUE
+Woodrow Wilson was a Male,TRUE
+William Howard Taft was a Male,TRUE
+Theodore Roosevelt was a Male,TRUE
+William McKinley was a Male,TRUE
+Grover Cleveland was a Male,TRUE
+Benjamin Harrison was a Male,TRUE
+Chester Alan Arthur was a Male,TRUE
+James Abram Garfield was a Male,TRUE
+Rutherford Birchard Hayes was a Male,TRUE
+Ulysses Grant was a Male,TRUE
+Andrew Johnson was a Male,TRUE
+Abraham Lincoln was a Male,TRUE
+James Buchanan was a Male,TRUE
+Franklin Pierce was a Male,TRUE
+Millard Fillmore was a Male,TRUE
+Zachary Taylor was a Male,TRUE
+James Knox Polk was the American Leader,TRUE
+James Knox Polk was a Male,TRUE
+James Knox Polk born in America,TRUE
+James Knox Polk born in 1795,TRUE
+James Knox Polk died in 1849,TRUE
+John Tyler was the American Leader,TRUE
+John Tyler was a Male,TRUE
+John Tyler born in America,TRUE
+John Tyler born in 1790,TRUE
+John Tyler died in 1862,TRUE
+William Harrison was the American Leader,TRUE
+William Harrison was a Male,TRUE
+William Harrison born in America,TRUE
+William Harrison born in 1773,TRUE
+William Harrison died in 1841,TRUE
+Martin Van Buren was the American Leader,TRUE
+Martin Van Buren was a Male,TRUE
+Martin Van Buren born in America,TRUE
+Martin Van Buren born in 1782,TRUE
+Martin Van Buren died in 1862,TRUE
+Andrew Jackson was the American Leader,TRUE
+Andrew Jackson was a Male,TRUE
+Andrew Jackson born in America,TRUE
+Andrew Jackson born in 1767,TRUE
+Andrew Jackson died in 1845,TRUE
+John Quincy Adams was the American Leader,TRUE
+John Quincy Adams was a Male,TRUE
+John Quincy Adams born in America,TRUE
+John Quincy Adams born in 1767,TRUE
+John Quincy Adams died in 1848,TRUE
+James Monroe was the American Leader,TRUE
+James Monroe was a Male,TRUE
+James Monroe born in America,TRUE
+James Monroe born in 1758,TRUE
+James Monroe died in 1831,TRUE
+James Madison was the American Leader,TRUE
+James Madison was a Male,TRUE
+James Madison born in America,TRUE
+James Madison born in 1751,TRUE
+James Madison died in 1836,TRUE
+Thomas Jefferson was the American Leader,TRUE
+Thomas Jefferson was a Male,TRUE
+Thomas Jefferson born in America,TRUE
+Thomas Jefferson born in 1743,TRUE
+Thomas Jefferson died in 1826,TRUE
+John Adams was the American Leader,TRUE
+John Adams was a Male,TRUE
+John Adams born in America,TRUE
+John Adams born in 1735,TRUE
+John Adams died in 1826,TRUE
+George Washington was the American Leader,TRUE
+George Washington was a Male,TRUE
+George Washington born in America,TRUE
+George Washington born in 1784,TRUE
+George Washington died in 1850,TRUE
+George Washington established United States of America,TRUE
+John McCain was the American Political,TRUE
+John McCain was a Male,TRUE
+John McCain born in America,TRUE
+John McCain born in 1936,TRUE
+John McCain died in 2018,TRUE
+George McGovern was the American Political,TRUE
+George McGovern was a Male,TRUE
+George McGovern born in America,TRUE
+George McGovern born in 1922,TRUE
+George McGovern died in 2012,TRUE
+Henry Wallace was the American Political,TRUE
+Henry Wallace was a Male,TRUE
+Henry Wallace born in America,TRUE
+Henry Wallace born in 1888,TRUE
+Henry Wallace died in 1965,TRUE
+Adlai Stevenson was the American Political,TRUE
+Adlai Stevenson was a Male,TRUE
+Adlai Stevenson born in America,TRUE
+Adlai Stevenson born in 1900,TRUE
+Adlai Stevenson died in 1965,TRUE
+Winfield Scott Hancock was the American Political,TRUE
+Winfield Scott Hancock was a Male,TRUE
+Winfield Scott Hancock born in America,TRUE
+Winfield Scott Hancock born in 1824,TRUE
+Winfield Scott Hancock died in 1886,TRUE
+James Middleton Cox was the American Political,TRUE
+James Middleton Cox was a Male,TRUE
+James Middleton Cox born in America,TRUE
+James Middleton Cox born in 1870,TRUE
+James Middleton Cox died in 1957,TRUE
+Hubert Humphrey was the American Political,TRUE
+Hubert Humphrey was a Male,TRUE
+Hubert Humphrey born in America,TRUE
+Hubert Humphrey born in 1911,TRUE
+Hubert Humphrey died in 1978,TRUE
+Thomas Dewey was the American Political,TRUE
+Thomas Dewey was a Male,TRUE
+Thomas Dewey born in America,TRUE
+Thomas Dewey born in 1902,TRUE
+Thomas Dewey died in 1971,TRUE
+Hilary Clinton was the American Political,TRUE
+Hilary Clinton was a Female,TRUE
+Hilary Clinton born in America,TRUE
+Hilary Clinton born in 1784,TRUE
+Walter Mondale was the American Political,TRUE
+Walter Mondale was a Male,TRUE
+Walter Mondale born in America,TRUE
+Walter Mondale born in 1928,TRUE
+Mike Pence was the American Political,TRUE
+Mike Pence was a Male,TRUE
+Mike Pence born in America,TRUE
+Mike Pence born in 1959,TRUE
+Tim Kaine was the American Political,TRUE
+Tim Kaine was a Male,TRUE
+Tim Kaine born in America,TRUE
+Tim Kaine born in 1958,TRUE
+Joe Biden was the American Political,TRUE
+Joe Biden was a Male,TRUE
+Joe Biden born in America,TRUE
+Joe Biden born in 1942,TRUE
+Mitt Romney was the American Political,TRUE
+Mitt Romney was a Male,TRUE
+Mitt Romney born in America,TRUE
+Mitt Romney born in 1947,TRUE
+John Kerry was the American Political,TRUE
+John Kerry was a Male,TRUE
+John Kerry born in America,TRUE
+John Kerry born in 1943,TRUE
+Al Gore was the American Political,TRUE
+Al Gore was a Male,TRUE
+Al Gore born in America,TRUE
+Al Gore born in 1948,TRUE
+Dan Quayle was the American Political,TRUE
+Dan Quayle was a Male,TRUE
+Dan Quayle born in America,TRUE
+Dan Quayle born in 1947,TRUE
+Lafayette was the American Political,TRUE
+Lafayette was a Male,TRUE
+Lafayette born in France,TRUE
+Lafayette born in 1757,TRUE
+Lafayette died in 1834,TRUE
+Selena Gomez was the American Singer,TRUE
+Selena Gomez was the American Television actor,FALSE
+Selena Gomez was the American Television producer,FALSE
+Selena Gomez was the American Television actor,FALSE
+Selena Gomez was the American Model,FALSE
+Selena Gomez was the American Fashion designer,FALSE
+Selena Gomez was the American Television actor,FALSE
+Selena Gomez was the Armenian Singer,FALSE
+Selena Gomez was the Russian Singer,FALSE
+Selena Gomez was the Iraqi Singer,FALSE
+Selena Gomez was the Chinese Singer,FALSE
+Selena Gomez was the Vietnamese Singer,FALSE
+Nina Simone was a Female,TRUE
+Miguel was a Male,TRUE
+Cher was a Female,TRUE
+Sharon Van Etten was a Female,TRUE
+CeeLo Green was a Male,TRUE
+Woody Guthrie was a Male,TRUE
+Dave Grohl was a Male,TRUE
+Lonnie Gordon was a Female,TRUE
+Joan Baez was a Female,TRUE
+John Denver was a Male,TRUE
+Idina Menzel was a Female,TRUE
+Katerina Graham was a Female,TRUE
+Keri Hilson was a Female,TRUE
+Melody Thornton was a Female,TRUE
+Nat King Cole was a Male,TRUE
+Luke Bryan was a Male,TRUE
+Slim Willet was a Male,TRUE
+Brandi Carlile was a Female,TRUE
+Bruce Springsteen was a Male,TRUE
+David Cicero was a Male,TRUE
+Eminem was a Male,TRUE
+Kurt Cobain was a Male,TRUE
+Ivory Joe Hunter was a Male,TRUE
+Terry Callier was a Male,TRUE
+Jamie Lynn Spears was a Female,TRUE
+Jessica Sanchez was a Female,TRUE
+Conway Twitty was a Male,TRUE
+Gene Vincent was a Male,TRUE
+Dean Reed was a Male,TRUE
+Lynn Anderson was a Female,TRUE
+Billy Scott was a Male,TRUE
+Julie Delpy was a Female,TRUE
+Paul Simon was a Male,TRUE
+Kim Carnes was a Female,TRUE
+Barbra Streisand was a Female,TRUE
+Mina Caputo was a transgender Female,TRUE
+Britney Spears was a Female,TRUE
+Jimi Hendrix was a Male,TRUE
+Kevin Rudolf was a Male,TRUE
+Mike Shinoda was a Male,TRUE
+Pharrell Williams was a Male,TRUE
+Billie Holiday was a Female,TRUE
+Sara Gazarek was a Female,TRUE
+Selena Gomez was a Female,TRUE
+Brant Bjork was a Male,TRUE
+Hoyt Axton was a Male,TRUE
+Tajna Tanovic was a Female,TRUE
+Tracey Ullman was a Female,TRUE
+Ariana Grande was a Female,TRUE
+Laura Cantrell was a Female,TRUE
+Marla Gibbs was a Female,TRUE
+Toni Braxton was a Female,TRUE
+Herb Jeffries was a Male,TRUE
+Bill Monroe was a Male,TRUE
+Al Jarreau was a Male,TRUE
+Rodney Atkins was a Male,TRUE
+Sonny Bono was a Male,TRUE
+Weird Al Yankovic was a Male,TRUE
+Amy Lee was a Female,TRUE
+Bruno Mars was a Male,TRUE
+Stevie Wonder was a Male,TRUE
+Art Garfunkel was a Male,TRUE
+Axl Rose was a Male,TRUE
+Eddie Cochran was a Male,TRUE
+Herbie Hancock was a Male,TRUE
+River Phoenix was a Male,TRUE
+Pnk was a Female,TRUE
+Jessica Simpson was a Female,TRUE
+Gene Pitney was a Male,TRUE
+GoonRock was a Male,TRUE
+Ella Fitzgerald was a Female,TRUE
+Jeff Bridges was a Male,TRUE
+Janis Joplin was a Female,TRUE
+Taylor Dayne was a Female,TRUE
+James Fauntleroy II was a Male,TRUE
+Patti Page was a Female,TRUE
+Ashanyka was a Female,TRUE
+Snoop Dogg was a Male,TRUE
+Alela Diane was a Female,TRUE
+Iyeoka Okoawo was a Female,TRUE
+Missy Elliott was a Female,TRUE
+Ron Dante was a Male,TRUE
+Charli Baltimore was a Female,TRUE
+Jack Antonoff was a Male,TRUE
+Patti Smith was a Female,TRUE
+Neil Young was a Male,TRUE
+Chuck Berry was a Male,TRUE
+Tom DeLonge was a Male,TRUE
+Juliana Hatfield was a Female,TRUE
+Lila Downs was a Female,TRUE
+Fergie was a Female,TRUE
+Chester Bennington was a Male,TRUE
+Jennette McCurdy was a Female,TRUE
+Michael Jackson was a Male,TRUE
+Zack de la Rocha was a Male,TRUE
+Steve Perry was a Male,TRUE
+Don McLean was a Male,TRUE
+Beck was a Male,TRUE
+Mario was a Male,TRUE
+Hilary Duff was a Female,TRUE
+James Brown was a Male,TRUE
+Chris Brown was a Male,TRUE
+Cyndi Lauper was a Female,TRUE
+Grey DeLisle was a Female,TRUE
+Corbin Bleu was a Male,TRUE
+Eric Stuart was a Male,TRUE
+Nikki Boyer was a Female,TRUE
+Travis Mills poronga was a Male,TRUE
+Tony Oller was a Male,TRUE
+Janet Jackson was a Female,TRUE
+Wiz Khalifa was a Male,TRUE
+Rufus Wainwright was a Male,TRUE
+Seth Glier was a Male,TRUE
+Seth MacFarlane was a Male,TRUE
+Tom Waits was a Male,TRUE
+Jay Brannan was a Male,TRUE
+Stevie Ray Vaughan was a Male,TRUE
+Wild Man Fischer was a Male,TRUE
+Lou Reed was a Male,TRUE
+Paula Abdul was a Female,TRUE
+Debby Ryan was a Female,TRUE
+Phil Vassar was a Male,TRUE
+Gerard Way was a Male,TRUE
+Nick Jonas was a Male,TRUE
+Marilyn Manson was a Male,TRUE
+Adam Lambert was a Male,TRUE
+Raven-Symoné was a Female,TRUE
+Emily Osment was a Female,TRUE
+Elvis Perkins was a Male,TRUE
+Joey Bishop was a Male,TRUE
+Dan Fogelberg was a Male,TRUE
+Ne-Yo was a Male,TRUE
+Ronnie James Dio was a Male,TRUE
+Tori Amos was a Female,TRUE
+Gloria Estefan was a Female,TRUE
+Zooey Deschanel was a Female,TRUE
+Roy Orbison was a Male,TRUE
+Hayley Williams was a Female,TRUE
+Jason Mraz was a Male,TRUE
+Jerry Lee Lewis was a Male,TRUE
+Robert Johnson was a Male,TRUE
+Dolly Parton was a Female,TRUE
+Jennifer Hudson was a Female,TRUE
+Mandy Moore was a Female,TRUE
+Etta James was a Female,TRUE
+Dave Mustaine was a Male,TRUE
+Travis Tritt was a Male,TRUE
+Billy Joel was a Male,TRUE
+Danny Elfman was a Male,TRUE
+Sheryl Crow was a Female,TRUE
+Carly Simon was a Female,TRUE
+Jesse McCartney was a Male,TRUE
+John Frusciante was a Male,TRUE
+ Ward was a Male,TRUE
+Steven Tyler was a Male,TRUE
+Willie Dixon was a Male,TRUE
+Amanda Seyfried was a Female,TRUE
+Kelly Rowland was a Female,TRUE
+Victoria Justice was a Female,TRUE
+Wynter Gordon was a Female,TRUE
+King was a Male,TRUE
+Jason Aldean was a Male,TRUE
+Roy Zimmerman was a Male,TRUE
+Monica was a Female,TRUE
+Keyshia Cole was a Female,TRUE
+Muddy Waters was a Male,TRUE
+Lauryn Hill was a Female,TRUE
+Emmylou Harris was a Female,TRUE
+Katey Sagal was a Female,TRUE
+Miranda Lambert was a Female,TRUE
+Garth Brooks was a Male,TRUE
+Gene Simmons was a Male,TRUE
+Isaac Hayes was a Male,TRUE
+Dee Dee Bridgewater was a Female,TRUE
+Kenny Rogers was a Male,TRUE
+John Mayer was a Male,TRUE
+Mýa was a Female,TRUE
+Debbie Gibson was a Female,TRUE
+Grace Slick was a Female,TRUE
+Kate Voegele was a Female,TRUE
+Lisa Lopes was a Female,TRUE
+Minnie Riperton was a Female,TRUE
+Kris Kristofferson was a Male,TRUE
+Eddie Vedder was a Male,TRUE
+Josh Groban was a Male,TRUE
+Phillip Phillips was a Male,TRUE
+Roberta Flack was a Female,TRUE
+Willie Nelson was a Male,TRUE
+Amerie was a Female,TRUE
+Irene Cara was a Female,TRUE
+Joan Jett was a Female,TRUE
+June Carter Cash was a Female,TRUE
+Tammy Wynette was a Female,TRUE
+Michael Hedges was a Male,TRUE
+Billy Ray Cyrus was a Male,TRUE
+Jeff Buckley was a Male,TRUE
+Carrie Underwood was a Female,TRUE
+Erykah Badu was a Female,TRUE
+Fiona Apple was a Female,TRUE
+Hattie McDaniel was a Female,TRUE
+Lea Michele was a Female,TRUE
+Joanna Newsom was a Female,TRUE
+Vanessa Carlton was a Female,TRUE
+Kevin Jonas was a Male,TRUE
+Michael Stipe was a Male,TRUE
+Otis Redding was a Male,TRUE
+T-Pain was a Male,TRUE
+La Toya Jackson was a Female,TRUE
+Bridgit Mendler was a Female,TRUE
+Jordin Sparks was a Female,TRUE
+Annette O'Toole was a Female,TRUE
+China Anne McClain was a Female,TRUE
+Colbie Caillat was a Female,TRUE
+Elizabeth Gillies was a Female,TRUE
+Jewel was a Female,TRUE
+Lil Mama was a Female,TRUE
+Tila Tequila was a Female,TRUE
+Kris Allen was a Male,TRUE
+Hank Williams was a Male,TRUE
+Paul Anka was a Male,TRUE
+Elliott Smith was a Male,TRUE
+Katharine McPhee was a Female,TRUE
+JoJo was a Female,TRUE
+Christina Milian was a Female,TRUE
+Debbie Harry was a Female,TRUE
+Chaka Khan was a Female,TRUE
+Courtney Love was a Female,TRUE
+Emilie Autumn was a Female,TRUE
+Jada Pinkett Smith was a Female,TRUE
+Janelle Monáe was a Female,TRUE
+Linda Ronstadt was a Female,TRUE
+Natalie Cole was a Female,TRUE
+Shawnee Smith was a Female,TRUE
+Solange Knowles was a Female,TRUE
+David Archuleta was a Male,TRUE
+Ike Turner was a Male,TRUE
+Jill Scott was a Female,TRUE
+deV was a Female,TRUE
+Michelle Williams was a Female,TRUE
+Ashlee Simpson was a Female,TRUE
+Mary Blige was a Female,TRUE
+Cat Power was a Female,TRUE
+Julie London was a Female,TRUE
+Karen Black was a Female,TRUE
+Lil' Kim was a Female,TRUE
+Skylar Grey was a Female,TRUE
+Barry White was a Male,TRUE
+Alex Chilton was a Male,TRUE
+Anthony Kiedis was a Male,TRUE
+Jason Newsted was a Male,TRUE
+Ani DiFranco was a Female,TRUE
+Bo Diddley was a Male,TRUE
+Adam Levine was a Male,TRUE
+Beth Hart was a Female,TRUE
+Christina Perri was a Female,TRUE
+Elizabeth McGovern was a Female,TRUE
+Macy Gray was a Female,TRUE
+Malese Jow was a Female,TRUE
+Sara Bareilles was a Female,TRUE
+Traci Lords was a Female,TRUE
+Devendra Banhart was a Male,TRUE
+Mimi Fariña was a Female,TRUE
+Ultra Naté was a Female,TRUE
+Amy Grant was a Female,TRUE
+Marcella Detroit was a Female,TRUE
+Pam Tillis was a Female,TRUE
+Tanya Tucker was a Female,TRUE
+Josh Turner was a Male,TRUE
+Mike Love was a Male,TRUE
+Christopher Cross was a Male,TRUE
+Danielle Bisutti was a Female,TRUE
+Gillian Welch was a Female,TRUE
+Julia Nunes was a Female,TRUE
+Kaki King was a Female,TRUE
+Leela James was a Female,TRUE
+Lil' Mo was a Female,TRUE
+Melba Moore was a Female,TRUE
+Patrice Rushen was a Female,TRUE
+Kathie Lee Gifford was a Female,TRUE
+Memphis Minnie was a Female,TRUE
+Snatam Kaur was a Female,TRUE
+Jake Owen was a Male,TRUE
+Lee DeWyze was a Male,TRUE
+Wayne Static was a Male,TRUE
+Jim Croce was a Male,TRUE
+Robert Francis was a Male,TRUE
+Katherine Bailess was a Female,TRUE
+Wendy Melvoin was a Female,TRUE
+Al Jardine was a Male,TRUE
+Bobby Vee was a Male,TRUE
+Teddy Pendergrass was a Male,TRUE
+Betty Carter was a Female,TRUE
+Happy Rhodes was a Female,TRUE
+Vienna Teng was a Female,TRUE
+Lhasa de Sela was a Female,TRUE
+Schuyler Fisk was a Female,TRUE
+Syreeta Wright was a Female,TRUE
+Big Bill Broonzy was a Male,TRUE
+Hank Cochran was a Male,TRUE
+Diana DeGarmo was a Female,TRUE
+Dory Previn was a Female,TRUE
+Jody Watley was a Female,TRUE
+Kaci Brown was a Female,TRUE
+Martha Wash was a Female,TRUE
+Patty Griffin was a Female,TRUE
+Rebekah Johnson was a Female,TRUE
+David Cassidy was a Male,TRUE
+Ross Lynch was a Male,TRUE
+Fiona was a Female,TRUE
+Doc Watson was a Male,TRUE
+Jack Scott was a Male,TRUE
+Kathy Mattea was a Female,TRUE
+Russell Allen was a Male,TRUE
+Thelma Houston was a Female,TRUE
+Bettye LaVette was a Female,TRUE
+Coco Jones was a Female,TRUE
+Gretchen Wilson was a Female,TRUE
+Jessica Cauffiel was a Female,TRUE
+Nina Gordon was a Female,TRUE
+Regina Belle was a Female,TRUE
+Anna Marly was a Female,TRUE
+Everlast was a Male,TRUE
+Glen Sherley was a Male,TRUE
+Michael Steele was a Female,TRUE
+Brooke Valentine was a Female,TRUE
+Donna Hightower was a Female,TRUE
+Marissa Nadler was a Female,TRUE
+Nina Nastasia was a Female,TRUE
+Suzy Bogguss was a Female,TRUE
+Tammy Faye Messner was a Female,TRUE
+Lorrie Morgan was a Female,TRUE
+Sara Evans was a Female,TRUE
+Darius Rucker was a Male,TRUE
+Roy Acuff was a Male,TRUE
+Connie Smith was a Female,TRUE
+Patricia Barber was a Female,TRUE
+Plumb was a Female,TRUE
+Princess Superstar was a Female,TRUE
+Sheila Jordan was a Female,TRUE
+Sophie Auster was a Female,TRUE
+Gene Austin was a Male,TRUE
+Norton Buffalo was a Male,TRUE
+Roger McGuinn was a Male,TRUE
+Willy DeVille was a Male,TRUE
+Rosanne Cash was a Female,TRUE
+Stephanie Mills was a Female,TRUE
+Nellie McKay was a Female,TRUE
+Bert Sommer was a Male,TRUE
+Billie Joe Armstrong was a Male,TRUE
+Brendan Hines was a Male,TRUE
+Country Joe McDonald was a Male,TRUE
+Edwin Starr was a Male,TRUE
+Ginuwine was a Male,TRUE
+John Hiatt was a Male,TRUE
+Jonathan Richman was a Male,TRUE
+Tom Johnston was a Male,TRUE
+Barbara Lynn was a Female,TRUE
+Katy Rose was a Female,TRUE
+ Boon was a Male,TRUE
+Hank Williams III was a Male,TRUE
+Benjamin Burnley was a Male,TRUE
+Bert McCracken was a Male,TRUE
+Bill Gaither was a Male,TRUE
+Jerry Reed was a Male,TRUE
+Ben Kweller was a Male,TRUE
+Carlos Santana was a Male,TRUE
+Allan Sherman was a Male,TRUE
+Artie Kornfeld was a Male,TRUE
+Evan Taubenfeld was a Male,TRUE
+Hank Thompson was a Male,TRUE
+Kevin Gilbert was a Male,TRUE
+Mark Kozelek was a Male,TRUE
+Ben Gibbard was a Male,TRUE
+Tom Rush was a Male,TRUE
+Arthur Crudup was a Male,TRUE
+Brad Delp was a Male,TRUE
+Gregory Abbott was a Male,TRUE
+Jack Norworth was a Male,TRUE
+Rick Springfield was a Male,TRUE
+Will Oldham was a Male,TRUE
+Demi Evans was a Female,TRUE
+Moon Martin was a Male,TRUE
+J Mascis was a Male,TRUE
+Mark Weigle was a Male,TRUE
+Avery Storm was a Male,TRUE
+Chuck Willis was a Male,TRUE
+Mike Ness was a Male,TRUE
+Tim Hardin was a Male,TRUE
+Tim Kinsella was a Male,TRUE
+Chris Whitley was a Male,TRUE
+Steve Earle was a Male,TRUE
+Avant was a Male,TRUE
+Jon McLaughlin was a Male,TRUE
+Aruna was a Female,TRUE
+Marty Stuart was a Male,TRUE
+Porter Wagoner was a Male,TRUE
+Pebe Sebert was a Female,TRUE
+Jason Upton was a Male,TRUE
+Barry Sadler was a Male,TRUE
+Eric Andersen was a Male,TRUE
+Gary Jules was a Male,TRUE
+James Cotton was a Male,TRUE
+Buck Owens was a Male,TRUE
+Garland Jeffreys was a Male,TRUE
+Jeffrey Lewis was a Male,TRUE
+Ray Stevens was a Male,TRUE
+Roger Miller was a Male,TRUE
+Jenni Rivera was a Female,TRUE
+ Thomas was a Male,TRUE
+David Clayton-Thomas was a Male,TRUE
+Dwight Yoakam was a Male,TRUE
+Roger Troutman was a Male,TRUE
+Vernon Dalhart was a Male,TRUE
+Ashley Parker Angel was a Male,TRUE
+Chris Garneau was a Male,TRUE
+Christian Kane was a Male,TRUE
+Faron Young was a Male,TRUE
+Jesse Lacey was a Male,TRUE
+Kieran Kane was a Male,TRUE
+Ray LaMontagne was a Male,TRUE
+Rob Thomas was a Male,TRUE
+Rusty Anderson was a Male,TRUE
+Sonny Fisher was a Male,TRUE
+Wesley Willis was a Male,TRUE
+Barry Zito was a Male,TRUE
+RuPaul was a Male,TRUE
+Alan Wilson was a Male,TRUE
+Eric Benét was a Male,TRUE
+Damien Jurado was a Male,TRUE
+Dan Hartman was a Male,TRUE
+David Allan Coe was a Male,TRUE
+Grant Hart was a Male,TRUE
+Jimmy Buffett was a Male,TRUE
+John Loudermilk was a Male,TRUE
+Jorma Kaukonen was a Male,TRUE
+Leon Thomas III was a Male,TRUE
+Ryan Toby was a Male,TRUE
+Shawn McDonald was a Male,TRUE
+Sly Stone was a Male,TRUE
+Chris Gerolmo was a Male,TRUE
+Townes Van Zandt was a Male,TRUE
+Barry McGuire was a Male,TRUE
+Mel McDaniel was a Male,TRUE
+Matt Skiba was a Male,TRUE
+Chris Tomlin was a Male,TRUE
+Slim Harpo was a Male,TRUE
+Blake Lewis was a Male,TRUE
+Penelope Houston was a Female,TRUE
+Joe Jones was a Male,TRUE
+Ray Evans was a Male,TRUE
+Jacki-O was a Female,TRUE
+Norah Jones was a Female,TRUE
+Billy Strange was a Male,TRUE
+Charlie Daniels was a Male,TRUE
+Lyle Lovett was a Male,TRUE
+Narada Michael Walden was a Male,TRUE
+Tyler Hilton was a Male,TRUE
+Waylon Reavis was a Male,TRUE
+Big Walter Price was a Male,TRUE
+Hank Williams was a Male,TRUE
+Andrew Gold was a Male,TRUE
+Butch Walker was a Male,TRUE
+Kipp Lennon was a Male,TRUE
+Ari Gold was a Male,TRUE
+Bruce Johnston was a Male,TRUE
+Donna Fargo was a Female,TRUE
+Melba Montgomery was a Female,TRUE
+Jani Lane was a Male,TRUE
+Johnny Bristol was a Male,TRUE
+Austin Mahone was a Male,TRUE
+Charlie Rich was a Male,TRUE
+Gary Cherone was a Male,TRUE
+Twin Shadow was a Male,TRUE
+Warren Haynes was a Male,TRUE
+Steve Goodman was a Male,TRUE
+Tommy Cash was a Male,TRUE
+Jenny Owen Youngs was a Female,TRUE
+Sara Lov was a Female,TRUE
+Shannon McNally was a Female,TRUE
+Sonny Curtis was a Male,TRUE
+Valerie Landsburg was a Female,TRUE
+Josh Kelley was a Male,TRUE
+Sammy Kershaw was a Male,TRUE
+Joe Louis Walker was a Male,TRUE
+Patrick Leonard was a Male,TRUE
+Anthony Hamilton was a Male,TRUE
+Arlo Guthrie was a Male,TRUE
+Brenda Holloway was a Female,TRUE
+Liz Anderson was a Female,TRUE
+Eric McFadden was a Male,TRUE
+JC Chasez was a Male,TRUE
+Jon Brion was a Male,TRUE
+West Arkeen was a Male,TRUE
+Chris Thile was a Male,TRUE
+Poe was a Female,TRUE
+Phil Seymour was a Male,TRUE
+Julie Felix was a Female,TRUE
+Lori Lieberman was a Female,TRUE
+Myra was a Female,TRUE
+Shelby Lynne was a Female,TRUE
+Taral Hicks was a Female,TRUE
+Aaron Hall was a Male,TRUE
+Diplo was a Male,TRUE
+Jakob Dylan was a Male,TRUE
+John Vanderslice was a Male,TRUE
+Lou Gramm was a Male,TRUE
+Peter Tork was a Male,TRUE
+Salim Nourallah was a Male,TRUE
+Arthur Lee was a Male,TRUE
+Jeff Chandler was a Male,TRUE
+Harry Gibson was a Male,TRUE
+Greg Brown was a Male,TRUE
+Joey Lawrence was a Male,TRUE
+Baby Dee was a transgender Female,TRUE
+Jett Williams was a Female,TRUE
+Lisa Fischer was a Female,TRUE
+Monday Michiru was a Female,TRUE
+Puff Johnson was a Female,TRUE
+Sara Carter was a Female,TRUE
+Shoshana Bean was a Female,TRUE
+Andy LeMaster was a Male,TRUE
+Ric Ocasek was a Male,TRUE
+Terence Trent D'Arby was a Male,TRUE
+Juliet Simms was a Female,TRUE
+Arto Lindsay was a Male,TRUE
+Roy Ayers was a Male,TRUE
+Toby Keith was a Male,TRUE
+George Cohan was a Male,TRUE
+Betty Wright was a Female,TRUE
+Mia X was a Female,TRUE
+Shannon Hoon was a Male,TRUE
+Eleni Mandell was a Female,TRUE
+Aileen Quinn was a Female,TRUE
+Tish Hinojosa was a Female,TRUE
+Adassa was a Female,TRUE
+Lillian Lux was a Female,TRUE
+Ray Charles was a Male,TRUE
+Conor Oberst was a Male,TRUE
+Bill Chinnock was a Male,TRUE
+Charley Jordan was a Male,TRUE
+Eamon was a Male,TRUE
+Gary Allan was a Male,TRUE
+Gail Davies was a Female,TRUE
+Vincent Rose was a Male,TRUE
+Montell Jordan was a Male,TRUE
+Michael Franks was a Male,TRUE
+Joe South was a Male,TRUE
+Justin Moore was a Male,TRUE
+Randall Wallace was a Male,TRUE
+Rhett Akins was a Male,TRUE
+Seth Putnam was a Male,TRUE
+Tom Paxton was a Male,TRUE
+Guy Clark was a Male,TRUE
+Mat Kearney was a Male,TRUE
+Peter Cincotti was a Male,TRUE
+Jamie O'Hara was a Male,TRUE
+Gary Baker was a Male,TRUE
+Joseph Arthur was a Male,TRUE
+Charles Kelley was a Male,TRUE
+Keb' Mo' was a Male,TRUE
+Lefty Frizzell was a Male,TRUE
+Olu Dara was a Male,TRUE
+Ricky Skaggs was a Male,TRUE
+Phil Lesh was a Male,TRUE
+Joe Purdy was a Male,TRUE
+Kim Fowley was a Male,TRUE
+Sneaky Pete Kleinow was a Male,TRUE
+Freddie Hart was a Male,TRUE
+Cecil Womack was a Male,TRUE
+Rockwell was a Male,TRUE
+Tom Russell was a Male,TRUE
+Josh Ritter was a Male,TRUE
+Jon Davison was a Male,TRUE
+Robin Holcomb was a Female,TRUE
+Shealeigh was a Female,TRUE
+Howie Day was a Male,TRUE
+Joshua Kadison was a Male,TRUE
+Tommy Roe was a Male,TRUE
+Ray Sharpe was a Male,TRUE
+Al Dexter was a Male,TRUE
+Floyd Tillman was a Male,TRUE
+Jimmy Wakely was a Male,TRUE
+Norman Petty was a Male,TRUE
+Furry Lewis was a Male,TRUE
+Gene McFadden was a Male,TRUE
+John Stewart was a Male,TRUE
+Michael Penn was a Male,TRUE
+Randy Meisner was a Male,TRUE
+Tim Rose was a Male,TRUE
+Martie Maguire was a Female,TRUE
+Joey Cape was a Male,TRUE
+Johnny Rebel was a Male,TRUE
+Stevie B was a Male,TRUE
+Jody Reynolds was a Male,TRUE
+Miljenko Matijevic was a Male,TRUE
+Paul Westerberg was a Male,TRUE
+Roy Estrada was a Male,TRUE
+Anaïs Mitchell was a Female,TRUE
+Shawn Mullins was a Male,TRUE
+Maxwell was a Male,TRUE
+Jimmy Nelson was a Male,TRUE
+Ryan Leslie was a Male,TRUE
+Rod McKuen was a Male,TRUE
+Ryan Bingham was a Male,TRUE
+Matthew Wilder was a Male,TRUE
+Mose Allison was a Male,TRUE
+Albert Bouchard was a Male,TRUE
+Frankie Miller was a Male,TRUE
+Kirk Windstein was a Male,TRUE
+Gene O'Quin was a Male,TRUE
+Steve Hurley was a Male,TRUE
+Marc Cohn was a Male,TRUE
+Robert Pollard was a Male,TRUE
+James Mercer was a Male,TRUE
+Brooke White was a Female,TRUE
+Eric Bibb was a Male,TRUE
+Mario Winans was a Male,TRUE
+Randy California was a Male,TRUE
+Matt Costa was a Male,TRUE
+Rick Vito was a Male,TRUE
+Rupert Holmes was a Male,TRUE
+Gene Parsons was a Male,TRUE
+CeCe Peniston was a Female,TRUE
+Beyoncé was a Female,TRUE
+Kesha was a Female,TRUE
+Lalaine Vergara-Paras was a Female,TRUE
+Lana Del Rey was a Female,TRUE
+Katy Perry was a Female,TRUE
+Brad Paisley was a Male,TRUE
+Mary Travers was a Female,TRUE
+Chuck Negron was a Male,TRUE
+Gene Clark was a Male,TRUE
+Jared Leto was a Male,TRUE
+Kate Micucci was a Female,TRUE
+Dierks Bentley was a Male,TRUE
+Bobby Troup was a Male,TRUE
+Harry Barris was a Male,TRUE
+Terry Kath was a Male,TRUE
+Carlene Carter was a Female,TRUE
+Katharine McPhee was born in 1884,FALSE
+Jada Pinkett Smith was born in 1871,FALSE
+Christina Milian was born in 1881,FALSE
+Courtney Love was born in 1864,FALSE
+Paul Anka was born in 1841,FALSE
+Emilie Autumn was born in 1879,FALSE
+JoJo was born in 1890,FALSE
+Jill Scott was born in 1872,FALSE
+Solange Knowles was born in 1886,FALSE
+Chaka Khan was born in 1853,FALSE
+Cat Power was born in 1872,FALSE
+Hank Williams was born in 1823,FALSE
+Ani DiFranco was born in 1870,FALSE
+Lil' Kim was born in 1874,FALSE
+Natalie Cole was born in 1850,FALSE
+David Archuleta was born in 1890,FALSE
+Jason Newsted was born in 1863,FALSE
+Anthony Kiedis was born in 1862,FALSE
+Linda Ronstadt was born in 1846,FALSE
+Debbie Harry was born in 1845,FALSE
+Michelle Williams was born in 1880,FALSE
+Traci Lords was born in 1868,FALSE
+Beth Hart was born in 1872,FALSE
+Macy Gray was born in 1867,FALSE
+Adam Levine was born in 1879,FALSE
+Ashlee Simpson was born in 1884,FALSE
+deV was born in 1889,FALSE
+Alex Chilton was born in 1850,FALSE
+Hattie McDaniel was born in 1895,FALSE
+Karen Dalton was born in 1837,FALSE
+Glen Sherley was born in 1836,FALSE
+CeCe Peniston was born in 1869,FALSE
+Patricia Barber was born in 1855,FALSE
+Jermaine Stewart was born in 1857,FALSE
+Doc Watson was born in 1823,FALSE
+Rosanne Cash was born in 1855,FALSE
+Willy DeVille was born in 1853,FALSE
+Norton Buffalo was born in 1851,FALSE
+Tammy Faye Messner was born in 1842,FALSE
+Kristine W was born in 1862,FALSE
+Josh Turner was born in 1877,FALSE
+Sheila Jordan was born in 1828,FALSE
+Amy Grant was born in 1860,FALSE
+Marcella Detroit was born in 1859,FALSE
+Julie Brown was born in 1858,FALSE
+Tanya Tucker was born in 1858,FALSE
+Pam Tillis was born in 1858,FALSE
+Pam Tillis was born in 1857,FALSE
+Julie Brown was born in 1854,FALSE
+Snatam Kaur was born in 1872,FALSE
+Amil was born in 1878,FALSE
+Sammy Cahn was born in 1813,FALSE
+Roy Acuff was born in 1803,FALSE
+Gene Clark was born in 1844,FALSE
+James Hetfield was born in 1863,FALSE
+Danielle Bisutti was born in 1876,FALSE
+Amos Lee was born in 1878,FALSE
+Chuck Negron was born in 1842,FALSE
+Gene Clark was born in 1841,FALSE
+Mike Love was born in 1841,FALSE
+Jake Owen was born in 1881,FALSE
+Gwen Stefani was born in 1869,FALSE
+Trey Anastasio was born in 1864,FALSE
+Mary Travers was born in 1836,FALSE
+Mary Travers was born in 1836,FALSE
+Patrice Rushen was born in 1854,FALSE
+Kathie Lee Gifford was born in 1853,FALSE
+Patti Russo was born in 1864,FALSE
+Wendy Melvoin was born in 1864,FALSE
+Julia Nunes was born in 1889,FALSE
+David Duchovny was born in 1860,FALSE
+Katherine Bailess was born in 1880,FALSE
+Lhasa de Sela was born in 1872,FALSE
+Yoon Mi-rae was born in 1881,FALSE
+Robert Francis was born in 1887,FALSE
+Jim Croce was born in 1843,FALSE
+Vienna Teng was born in 1878,FALSE
+Dobie Gray was born in 1840,FALSE
+Jack Black was born in 1869,FALSE
+Jack Black was born in 1869,FALSE
+Schuyler Fisk was born in 1882,FALSE
+Patty Griffin was born in 1864,FALSE
+Al Jardine was born in 1842,FALSE
+Fiona was born in 1861,FALSE
+Jody Watley was born in 1859,FALSE
+Kelly Clarkson was born in 1882,FALSE
+Amos Milburn was born in 1827,FALSE
+Syreeta Wright was born in 1846,FALSE
+Martha Wash was born in 1853,FALSE
+Martha Wash was born in 1853,FALSE
+Alexander O'Neal was born in 1853,FALSE
+Andraé Crouch was born in 1842,FALSE
+Diana DeGarmo was born in 1887,FALSE
+David Cassidy was born in 1850,FALSE
+Calvin Russell was born in 1848,FALSE
+Hank Cochran was born in 1835,FALSE
+Elizabeth Cotten was born in 1895,FALSE
+Ross Lynch was born in 1895,FALSE
+Scott Walker was born in 1843,FALSE
+Elizabeth Cotten was born in 1893,FALSE
+Betty Carter was born in 1830,FALSE
+Betty Carter was born in 1829,FALSE
+Everlast was born in 1869,FALSE
+Nina Gordon was born in 1867,FALSE
+Bob Welch was born in 1846,FALSE
+Bob Welch was born in 1845,FALSE
+Randy Travis was born in 1859,FALSE
+Glenn Frey was born in 1848,FALSE
+Memphis Minnie was born in 1897,FALSE
+Memphis Minnie was born in 1896,FALSE
+Sara Evans was born in 1871,FALSE
+Thelma Houston was born in 1846,FALSE
+Bettye LaVette was born in 1846,FALSE
+Jeremih was born in 1887,FALSE
+Peter Cetera was born in 1844,FALSE
+Lorrie Morgan was born in 1859,FALSE
+Coco Jones was born in 1898,FALSE
+Coco Jones was born in 1898,FALSE
+Plumb was born in 1875,FALSE
+Robin Thicke was born in 1877,FALSE
+Sleepy John Estes was born in 1804,FALSE
+Mark Wills was born in 1873,FALSE
+Sixto Rodriguez was born in 1842,FALSE
+Adrienne Houghton was born in 1883,FALSE
+Sleepy John Estes was born in 1899,FALSE
+Max C was born in 1875,FALSE
+Telle Smith was born in 1886,FALSE
+David Choi was born in 1886,FALSE
+Amy LaVere was born in 1853,FALSE
+Meghan Andrews was born in 1879,FALSE
+Kurt Kaiser was born in 1834,FALSE
+Max Carl was born in 1850,FALSE
+Mark Farner was born in 1848,FALSE
+Matthew Shultz was born in 1883,FALSE
+Ken Medema was born in 1843,FALSE
+Michael Brown was born in 1849,FALSE
+Jack Splash was born in 1900,FALSE
+John Trudell was born in 1846,FALSE
+Jerry Portnoy was born in 1843,FALSE
+Rusty Wier was born in 1844,FALSE
+Malcolm Yelvington was born in 1818,FALSE
+Blowfly was born in 1839,FALSE
+Johnnie Allan was born in 1838,FALSE
+Jim Ed Brown was born in 1834,FALSE
+Glen Phillips was born in 1870,FALSE
+Jason Michael Carroll was born in 1878,FALSE
+Jonathan Nelson was born in 1874,FALSE
+Martha Munizzi was born in 1868,FALSE
+Karin Anna Cheung was born in 1874,FALSE
+Jeff Carson was born in 1863,FALSE
+Kenny Vance was born in 1843,FALSE
+Jacqui Naylor was born in 1860,FALSE
+Lucy Kaplansky was born in 1860,FALSE
+Lucy Kaplansky was born in 1860,FALSE
+Luther Johnson was born in 1839,FALSE
+Judy Henske was born in 1836,FALSE
+Anton Newcombe was born in 1867,FALSE
+Max Bemis was born in 1884,FALSE
+James Otto was born in 1873,FALSE
+Li'l Millet was born in 1835,FALSE
+Keith Green was born in 1853,FALSE
+Randy Houser was born in 1875,FALSE
+Will Sheff was born in 1876,FALSE
+Laura Jansen was born in 1877,FALSE
+Tony Sly was born in 1870,FALSE
+Mark Chesnutt was born in 1863,FALSE
+Josh Homme was born in 1873,FALSE
+René Marie was born in 1855,FALSE
+Jerry Yester was born in 1843,FALSE
+John Fred was born in 1841,FALSE
+John Pizzarelli was born in 1860,FALSE
+Tommy Shaw was born in 1853,FALSE
+Jonny Lang was born in 1881,FALSE
+Jack Ingram was born in 1870,FALSE
+Michael Been was born in 1850,FALSE
+Eric Schwartz was born in 1853,FALSE
+Jeff Tweedy was born in 1867,FALSE
+Joe Dolce was born in 1847,FALSE
+Lari White was born in 1865,FALSE
+Dan Bern was born in 1865,FALSE
+John Anderson was born in 1854,FALSE
+Lee Brice was born in 1880,FALSE
+Constantine Maroulis was born in 1875,FALSE
+Michael Martin Murphey was born in 1845,FALSE
+Josh Thompson was born in 1878,FALSE
+Aaron Watson was born in 1877,FALSE
+Kevin Devine was born in 1879,FALSE
+Joe Henry was born in 1860,FALSE
+Joe Dowell was born in 1840,FALSE
+Joe Dowell was born in 1840,FALSE
+Tiffany Alvord was born in 1892,FALSE
+Van McCoy was born in 1840,FALSE
+Mason Jennings was born in 1875,FALSE
+Lee Roy Parnell was born in 1856,FALSE
+James Talley was born in 1844,FALSE
+Jesse Winchester was born in 1844,FALSE
+Little Mack Simmons was born in 1833,FALSE
+Lobo was born in 1843,FALSE
+Jeff Hanson was born in 1878,FALSE
+William Fitzsimmons was born in 1878,FALSE
+Jim Stafford was born in 1844,FALSE
+Lauren Wood was born in 1900,FALSE
+Johnny Russell was born in 1840,FALSE
+Ledisi was born in 1872,FALSE
+John Callahan was born in 1851,FALSE
+Joe Tex was born in 1835,FALSE
+Slim Whitman was born in 1824,FALSE
+Slim Whitman was born in 1824,FALSE
+Willy Porter was born in 1864,FALSE
+Joe Tex was born in 1833,FALSE
+Joe Diffie was born in 1858,FALSE
+Kevin Welch was born in 1855,FALSE
+Meek Mill was born in 1887,FALSE
+Ken Mellons was born in 1865,FALSE
+Slaid Cleaves was born in 1864,FALSE
+Myra Taylor was born in 1817,FALSE
+Tiffany Young was born in 1889,FALSE
+Suzanne Vega was born in 1859,FALSE
+Mare Winningham was born in 1859,FALSE
+Stevie Nicks was born in 1848,FALSE
+Laura Nyro was born in 1847,FALSE
+Michelle Branch was born in 1883,FALSE
+Lucinda Williams was born in 1853,FALSE
+Alyson Michalka was born in 1889,FALSE
+Kristinia DeBarge was born in 1890,FALSE
+Allison Iraheta was born in 1892,FALSE
+Olivia Olson was born in 1892,FALSE
+Toni Basil was born in 1843,FALSE
+Jessi Colter was born in 1843,FALSE
+Jeffrey Osborne was born in 1848,FALSE
+Dottie West was born in 1832,FALSE
+Melanie Brown was born in 1875,FALSE
+Kim Deal was born in 1861,FALSE
+Pete Seeger was born in 1819,FALSE
+Aimee Mann was born in 1860,FALSE
+Aimee Mann was born in 1860,FALSE
+Majandra Delfino was born in 1881,FALSE
+Anita Baker was born in 1858,FALSE
+Melody Gardot was born in 1885,FALSE
+Drake Bell was born in 1886,FALSE
+Skin Diamond was born in 1887,FALSE
+Uffie was born in 1887,FALSE
+Jason Derulo was born in 1889,FALSE
+AJ Michalka was born in 1891,FALSE
+Duff McKagan was born in 1864,FALSE
+Helen Slater was born in 1863,FALSE
+Grant-Lee Phillips was born in 1863,FALSE
+Anya Marina was born in 1876,FALSE
+Cree Summer was born in 1869,FALSE
+Martha Wainwright was born in 1876,FALSE
+Jennifer Rush was born in 1860,FALSE
+Natalie Maines was born in 1874,FALSE
+Matraca Berg was born in 1864,FALSE
+Louisiana Red was born in 1832,FALSE
+Louisiana Red was born in 1832,FALSE
+Jennifer Paige was born in 1873,FALSE
+Janis Ian was born in 1851,FALSE
+Liz Phair was born in 1867,FALSE
+LeToya Luckett was born in 1881,FALSE
+Hikaru Utada was born in 1883,FALSE
+Cymphonique Miller was born in 1896,FALSE
+John Prine was born in 1846,FALSE
+Blake Lewis was born in 1881,FALSE
+Tav Falco was born in 1900,FALSE
+Penelope Houston was born in 1858,FALSE
+Ray Charles was born in 1830,FALSE
+Waylon Reavis was born in 1878,FALSE
+Norah Jones was born in 1879,FALSE
+Kate Micucci was born in 1880,FALSE
+Lyle Lovett was born in 1857,FALSE
+Jacki-O was born in 1882,FALSE
+Tyler Hilton was born in 1883,FALSE
+Sara Carter was born in 1898,FALSE
+Narada Michael Walden was born in 1852,FALSE
+Jace Everett was born in 1872,FALSE
+Chino Moreno was born in 1873,FALSE
+Laura Veirs was born in 1873,FALSE
+Deana Carter was born in 1866,FALSE
+Jill Sobule was born in 1865,FALSE
+Jani Lane was born in 1864,FALSE
+Carlene Carter was born in 1855,FALSE
+Eilen Jewell was born in 1879,FALSE
+Jill Sobule was born in 1859,FALSE
+Sara Lov was born in 1871,FALSE
+Charlie Daniels was born in 1836,FALSE
+Shannon McNally was born in 1873,FALSE
+Vic Chesnutt was born in 1864,FALSE
+Kari Jobe was born in 1881,FALSE
+George Jessel was born in 1898,FALSE
+Billy Strange was born in 1830,FALSE
+Ray Evans was born in 1815,FALSE
+Lizé Santana was born in 1880,FALSE
+Rosi Golan was born in 1881,FALSE
+Alex Band was born in 1881,FALSE
+Eric McFadden was born in 1865,FALSE
+Jenny Owen Youngs was born in 1881,FALSE
+Sammy Kershaw was born in 1858,FALSE
+Donna Fargo was born in 1845,FALSE
+Jon Brion was born in 1863,FALSE
+Poe was born in 1868,FALSE
+JC Chasez was born in 1876,FALSE
+Austin Mahone was born in 1896,FALSE
+Poe was born in 1867,FALSE
+Bruce Johnston was born in 1842,FALSE
+West Arkeen was born in 1860,FALSE
+Jakob Dylan was born in 1869,FALSE
+Johnny Bristol was born in 1839,FALSE
+Shelby Lynne was born in 1868,FALSE
+Melba Montgomery was born in 1838,FALSE
+Patrick Leonard was born in 1855,FALSE
+Taral Hicks was born in 1874,FALSE
+Aaron Hall was born in 1864,FALSE
+Baby Dee was born in 1853,FALSE
+Diplo was born in 1878,FALSE
+Tommy Cash was born in 1840,FALSE
+Arlo Guthrie was born in 1847,FALSE
+Brenda Holloway was born in 1846,FALSE
+Audra Mae was born in 1884,FALSE
+Sonny Curtis was born in 1837,FALSE
+Phil Seymour was born in 1852,FALSE
+Myra was born in 1886,FALSE
+Myra was born in 1886,FALSE
+Jean Shepard was born in 1833,FALSE
+Lori Lieberman was born in 1851,FALSE
+Linda Perhacs was born in 1900,FALSE
+Bobby Hebb was born in 1838,FALSE
+Donny Hathaway was born in 1845,FALSE
+Marc Nelson was born in 1871,FALSE
+Joey Lawrence was born in 1876,FALSE
+Julie Felix was born in 1838,FALSE
+Liz Anderson was born in 1827,FALSE
+Puff Johnson was born in 1872,FALSE
+Jes Brieden was born in 1874,FALSE
+Monday Michiru was born in 1863,FALSE
+Shoshana Bean was born in 1877,FALSE
+Arthur Lee was born in 1845,FALSE
+Terence Trent D'Arby was born in 1862,FALSE
+Lisa Fischer was born in 1858,FALSE
+Greg Brown was born in 1849,FALSE
+Mia X was born in 1870,FALSE
+Jett Williams was born in 1853,FALSE
+Shannon Hoon was born in 1867,FALSE
+Big Joe Williams was born in 1803,FALSE
+Chris Willis was born in 1869,FALSE
+Eleni Mandell was born in 1869,FALSE
+Ric Ocasek was born in 1844,FALSE
+Aileen Quinn was born in 1871,FALSE
+Andrew McMahon was born in 1882,FALSE
+George Jones was born in 1831,FALSE
+Laura Shigihara was born in 1900,FALSE
+Andy LeMaster was born in 1900,FALSE
+Betty Wright was born in 1853,FALSE
+Ernie Haase was born in 1864,FALSE
+Ed Roland was born in 1863,FALSE
+Bernard Fowler was born in 1860,FALSE
+Kathy Sledge was born in 1859,FALSE
+Huey Morgan was born in 1868,FALSE
+Bradford Cox was born in 1882,FALSE
+Benjamin Goldwasser was born in 1882,FALSE
+Chris Stills was born in 1874,FALSE
+Barbara Manning was born in 1864,FALSE
+Anuhea Jenkins was born in 1885,FALSE
+Dana Fuchs was born in 1876,FALSE
+Ace Young was born in 1880,FALSE
+Julie Miller was born in 1856,FALSE
+Charlie McCoy was born in 1841,FALSE
+Prince Royce was born in 1889,FALSE
+Chuck Wicks was born in 1879,FALSE
+Chad Gilbert was born in 1881,FALSE
+Lisa Harriton was born in 1880,FALSE
+Anita Pointer was born in 1848,FALSE
+Jaren Cerf was born in 1883,FALSE
+Dan Seals was born in 1848,FALSE
+Mitch Lucker was born in 1884,FALSE
+Rostam Batmanglij was born in 1883,FALSE
+Danny Flores was born in 1829,FALSE
+Stan Bush was born in 1853,FALSE
+Ava Gaudet was born in 1853,FALSE
+Allie Moss was born in 1900,FALSE
+AJ Roach was born in 1875,FALSE
+Jean Ritchie was born in 1822,FALSE
+Dawn Landes was born in 1880,FALSE
+Nate Ruess was born in 1882,FALSE
+Tyson Ritter was born in 1884,FALSE
+Nick Jameson was born in 1850,FALSE
+Bob Neuwirth was born in 1839,FALSE
+Mat Devine was born in 1874,FALSE
+Rhona Bennett was born in 1876,FALSE
+Willie Alexander was born in 1843,FALSE
+Jaci Velásquez was born in 1879,FALSE
+Arthur Alexander was born in 1840,FALSE
+Chris Seefried was born in 1866,FALSE
+Ryan Roxie was born in 1865,FALSE
+Brian Ray was born in 1855,FALSE
+Bill Ricchini was born in 1874,FALSE
+Charlotte Caffey was born in 1853,FALSE
+Youth Lagoon was born in 1889,FALSE
+Cassadee Pope was born in 1889,FALSE
+Natina Reed was born in 1880,FALSE
+Becca was born in 1889,FALSE
+Tracy Bonham was born in 1867,FALSE
+Chanté Moore was born in 1867,FALSE
+Jennifer Nettles was born in 1874,FALSE
+Sunshine Anderson was born in 1874,FALSE
+Lipa Schmeltzer was born in 1878,FALSE
+Matthew 'Mdot' Finley was born in 1887,FALSE
+Avraham Fried was born in 1859,FALSE
+Owsley was born in 1866,FALSE
+Jimi Jamison was born in 1851,FALSE
+Bobby Orlando was born in 1858,FALSE
+Casey Chaos was born in 1869,FALSE
+Buck Dharma was born in 1847,FALSE
+Jay Chevalier was born in 1836,FALSE
+Cody Wood was born in 1884,FALSE
+Támar was born in 1880,FALSE
+Anna Domino was born in 1855,FALSE
+Amel Larrieux was born in 1873,FALSE
+Doug Gillard was born in 1865,FALSE
+Kacey Musgraves was born in 1888,FALSE
+Ana Egge was born in 1876,FALSE
+Ben Weaver was born in 1880,FALSE
+Billy Talbot was born in 1843,FALSE
+Blair Tefkin was born in 1859,FALSE
+Chris Taylor was born in 1881,FALSE
+Matt Sharp was born in 1869,FALSE
+Dave Haywood was born in 1882,FALSE
+Patrick Monahan was born in 1869,FALSE
+Joanie Bartels was born in 1853,FALSE
+Makeba Riddick was born in 1853,FALSE
+Delaney Bramlett was born in 1839,FALSE
+Cameron Mitchell was born in 1890,FALSE
+Ingrid Croce was born in 1847,FALSE
+Wayne Carson was born in 1843,FALSE
+Bill Hudson was born in 1849,FALSE
+Jason Castro was born in 1887,FALSE
+Debbie Friedman was born in 1851,FALSE
+Alex Ebert was born in 1878,FALSE
+Wesley Tuttle was born in 1817,FALSE
+Israel Nash was born in 1881,FALSE
+Beverly Jo Scott was born in 1859,FALSE
+Nicole Morier was born in 1882,FALSE
+Aubrey O'Day was born in 1884,FALSE
+Aimee Allen was born in 1879,FALSE
+Evan Dando was born in 1867,FALSE
+Zola Jesus was born in 1889,FALSE
+Bobby Caldwell was born in 1851,FALSE
+Sarah Kernochan was born in 1847,FALSE
+Nathaniel Rateliff was born in 1878,FALSE
+Richard Shindell was born in 1860,FALSE
+Brett James was born in 1868,FALSE
+Sarah Buxton was born in 1880,FALSE
+Creed Bratton was born in 1843,FALSE
+Rex Griffin was born in 1812,FALSE
+Steven Curtis Chapman was born in 1862,FALSE
+Samuel David Moore was born in 1835,FALSE
+Claude Kelly was born in 1880,FALSE
+Russell Mael was born in 1848,FALSE
+Robert Coppola Schwartzman was born in 1882,FALSE
+Paul Jabara was born in 1848,FALSE
+Nappy Brown was born in 1829,FALSE
+Renaldo Benson was born in 1836,FALSE
+Danielle Brisebois was born in 1869,FALSE
+Stephen Lynch was born in 1871,FALSE
+Jason Cruz was born in 1874,FALSE
+O'Bryan was born in 1861,FALSE
+Roy Hawkins was born in 1803,FALSE
+Tamyra Gray was born in 1879,FALSE
+Kip Moore was born in 1880,FALSE
+Kip Moore was born in 1880,FALSE
+Pee Wee King was born in 1814,FALSE
+Randy VanWarmer was born in 1855,FALSE
+Slim Rhodes was born in 1813,FALSE
+Red Foley was born in 1810,FALSE
+China Forbes was born in 1870,FALSE
+Miranda Lee Richards was born in 1875,FALSE
+Ned Miller was born in 1825,FALSE
+Skip Ewing was born in 1864,FALSE
+Rosie Gaines was born in 1860,FALSE
+Reid Paley was born in 1900,FALSE
+Rusty Zinn was born in 1870,FALSE
+Rick Trevino was born in 1871,FALSE
+Jimmy LaFave was born in 1855,FALSE
+Jimmy LaFave was born in 1855,FALSE
+Michel'le was born in 1870,FALSE
+Adam Young was born in 1886,FALSE
+Jim Lindberg was born in 1865,FALSE
+Paul Barrere was born in 1848,FALSE
+John Conlee was born in 1846,FALSE
+Gregory Page was born in 1863,FALSE
+Malcolm Holcombe was born in 1855,FALSE
+Barbara Lewis was born in 1843,FALSE
+Michael Sembello was born in 1854,FALSE
+Gary LeVox was born in 1870,FALSE
+Gregg Alexander was born in 1870,FALSE
+Keith St John was born in 1869,FALSE
+Nguyen Van Linh was the Afghan Leader,FALSE
+Nguyen Van Linh was the Albanian Leader,FALSE
+Nguyen Van Linh was the Algerian Leader,FALSE
+Nguyen Van Linh was the Argentine Leader,FALSE
+Nguyen Van Linh was the Australian Leader,FALSE
+Nguyen Van Linh was the Austrian Leader,FALSE
+Nguyen Van Linh was the Bangladeshi Leader,FALSE
+Nguyen Van Linh was the Belgian Leader,FALSE
+Nguyen Van Linh was the Bolivian Leader,FALSE
+Nguyen Van Linh was the Batswana Leader,FALSE
+Nguyen Van Linh was the Brazilian Leader,FALSE
+Nguyen Van Linh was the Bulgarian Leader,FALSE
+Nguyen Van Linh was the Cambodian Leader,FALSE
+Nguyen Van Linh was the Cameroonian Leader,FALSE
+Nguyen Van Linh was the Canadian Leader,FALSE
+Nguyen Van Linh was the Chilean Leader,FALSE
+Nguyen Van Linh was the Chinese Leader,FALSE
+Nguyen Van Linh was the Colombian Leader,FALSE
+Nguyen Van Linh was the Croatian Leader,FALSE
+Nguyen Van Linh was the Cuban Leader,FALSE
+Nguyen Van Linh was the Czech Leader,FALSE
+Nguyen Van Linh was the Danish Leader,FALSE
+Nguyen Van Linh was the Dominican Leader,FALSE
+Nguyen Van Linh was the Ecuadorian Leader,FALSE
+Nguyen Van Linh was the Egyptian Leader,FALSE
+Nguyen Van Linh was the Salvadorian Leader,FALSE
+Nguyen Van Linh was the English Leader,FALSE
+Nguyen Van Linh was the Estonian Leader,FALSE
+Nguyen Van Linh was the Ethiopian Leader,FALSE
+Nguyen Van Linh was the Fijian Leader,FALSE
+Nguyen Van Linh was the Finnish Leader,FALSE
+Nguyen Van Linh was the French Leader,FALSE
+Nguyen Van Linh was the German Leader,FALSE
+Nguyen Van Linh was the Ghanaian Leader,FALSE
+Nguyen Van Linh was the Greek Leader,FALSE
+Nguyen Van Linh was the Guatemalan Leader,FALSE
+Nguyen Van Linh was the Haitian Leader,FALSE
+Nguyen Van Linh was the Honduran Leader,FALSE
+Nguyen Van Linh was the Hungarian Leader,FALSE
+Nguyen Van Linh was the Icelandic Leader,FALSE
+Nguyen Van Linh was the Indian Leader,FALSE
+Nguyen Van Linh was the Indonesian Leader,FALSE
+Nguyen Van Linh was the Iranian Leader,FALSE
+Nguyen Van Linh was the Iraqi Leader,FALSE
+Nguyen Van Linh was the Irish Leader,FALSE
+Nguyen Van Linh was the Israeli Leader,FALSE
+Nguyen Van Linh was the Italian Leader,FALSE
+Nguyen Van Linh was the Jamaican Leader,FALSE
+Nguyen Van Linh was the Japanese Leader,FALSE
+Nguyen Van Linh was the Jordanian Leader,FALSE
+Nguyen Van Linh was the Kenyan Leader,FALSE
+Nguyen Van Linh was the Kuwaiti Leader,FALSE
+Nguyen Van Linh was the Lao Leader,FALSE
+Nguyen Van Linh was the Latvian Leader,FALSE
+Nguyen Van Linh was the Lebanese Leader,FALSE
+Nguyen Van Linh was the Libyan Leader,FALSE
+Nguyen Van Linh was the Lithuanian Leader,FALSE
+Nguyen Van Linh was the Malagasy Leader,FALSE
+Nguyen Van Linh was the Malaysian Leader,FALSE
+Nguyen Van Linh was the Malian Leader,FALSE
+Nguyen Van Linh was the Maltese Leader,FALSE
+Nguyen Van Linh was the Mexican Leader,FALSE
+Nguyen Van Linh was the Mongolian Leader,FALSE
+Nguyen Van Linh was the Moroccan Leader,FALSE
+Nguyen Van Linh was the Mozambican Leader,FALSE
+Nguyen Van Linh was the Namibian Leader,FALSE
+Nguyen Van Linh was the Nepalese Leader,FALSE
+Nguyen Van Linh was the Dutch Leader,FALSE
+Nguyen Van Linh was the Nicaraguan Leader,FALSE
+Nguyen Van Linh was the Nigerian Leader,FALSE
+Nguyen Van Linh was the Norwegian Leader,FALSE
+Nguyen Van Linh was the Pakistani Leader,FALSE
+Nguyen Van Linh was the Panamanian Leader,FALSE
+Nguyen Van Linh was the Paraguayan Leader,FALSE
+Nguyen Van Linh was the Peruvian Leader,FALSE
+Nguyen Van Linh was the Philippine Leader,FALSE
+Nguyen Van Linh was the Polish Leader,FALSE
+Nguyen Van Linh was the Portuguese Leader,FALSE
+Nguyen Van Linh was the Romanian Leader,FALSE
+Nguyen Van Linh was the Russian Leader,FALSE
+Nguyen Van Linh was the Saudi Leader,FALSE
+Nguyen Van Linh was the Scottish Leader,FALSE
+Nguyen Van Linh was the Senegalese Leader,FALSE
+Nguyen Van Linh was the Serbian Leader,FALSE
+Nguyen Van Linh was the Singaporean Leader,FALSE
+Nguyen Van Linh was the Slovak Leader,FALSE
+Nguyen Van Linh was the Korean Leader,FALSE
+Nguyen Van Linh was the Spanish Leader,FALSE
+Nguyen Van Linh was the Sudanese Leader,FALSE
+Nguyen Van Linh was the Swedish Leader,FALSE
+Nguyen Van Linh was the Swiss Leader,FALSE
+Nguyen Van Linh was the Syrian Leader,FALSE
+Nguyen Van Linh was the Taiwanese Leader,FALSE
+Nguyen Van Linh was the Tajikistani Leader,FALSE
+Nguyen Van Linh was the Thai Leader,FALSE
+Nguyen Van Linh was the Tongan Leader,FALSE
+Nguyen Van Linh was the Tunisian Leader,FALSE
+Nguyen Van Linh was the Turkish Leader,FALSE
+Nguyen Van Linh was the Ukrainian Leader,FALSE
+Nguyen Van Linh was the Emirati Leader,FALSE
+Nguyen Van Linh was the British Leader,FALSE
+Nguyen Van Linh was the Uruguayan Leader,FALSE
+Nguyen Van Linh was the Venezuelan Leader,FALSE
+Nguyen Van Linh was the Vietnamese Leader,TRUE
+Nguyen Van Linh was the Welsh Leader,FALSE
+Nguyen Van Linh was the Zambian Leader,FALSE
+Nguyen Van Linh was the American Leader,FALSE
+King Ho Quy Ly was the Afghan Leader,FALSE
+King Ho Quy Ly was the Albanian Leader,FALSE
+King Ho Quy Ly was the Algerian Leader,FALSE
+King Ho Quy Ly was the Argentine Leader,FALSE
+King Ho Quy Ly was the Australian Leader,FALSE
+King Ho Quy Ly was the Austrian Leader,FALSE
+King Ho Quy Ly was the Bangladeshi Leader,FALSE
+King Ho Quy Ly was the Belgian Leader,FALSE
+King Ho Quy Ly was the Bolivian Leader,FALSE
+King Ho Quy Ly was the Batswana Leader,FALSE
+King Ho Quy Ly was the Brazilian Leader,FALSE
+King Ho Quy Ly was the Bulgarian Leader,FALSE
+King Ho Quy Ly was the Cambodian Leader,FALSE
+King Ho Quy Ly was the Cameroonian Leader,FALSE
+King Ho Quy Ly was the Canadian Leader,FALSE
+King Ho Quy Ly was the Chilean Leader,FALSE
+King Ho Quy Ly was the Chinese Leader,FALSE
+King Ho Quy Ly was the Colombian Leader,FALSE
+King Ho Quy Ly was the Croatian Leader,FALSE
+King Ho Quy Ly was the Cuban Leader,FALSE
+King Ho Quy Ly was the Czech Leader,FALSE
+King Ho Quy Ly was the Danish Leader,FALSE
+King Ho Quy Ly was the Dominican Leader,FALSE
+King Ho Quy Ly was the Ecuadorian Leader,FALSE
+King Ho Quy Ly was the Egyptian Leader,FALSE
+King Ho Quy Ly was the Salvadorian Leader,FALSE
+King Ho Quy Ly was the English Leader,FALSE
+King Ho Quy Ly was the Estonian Leader,FALSE
+King Ho Quy Ly was the Ethiopian Leader,FALSE
+King Ho Quy Ly was the Fijian Leader,FALSE
+King Ho Quy Ly was the Finnish Leader,FALSE
+King Ho Quy Ly was the French Leader,FALSE
+King Ho Quy Ly was the German Leader,FALSE
+King Ho Quy Ly was the Ghanaian Leader,FALSE
+King Ho Quy Ly was the Greek Leader,FALSE
+King Ho Quy Ly was the Guatemalan Leader,FALSE
+King Ho Quy Ly was the Haitian Leader,FALSE
+King Ho Quy Ly was the Honduran Leader,FALSE
+King Ho Quy Ly was the Hungarian Leader,FALSE
+King Ho Quy Ly was the Icelandic Leader,FALSE
+King Ho Quy Ly was the Indian Leader,FALSE
+King Ho Quy Ly was the Indonesian Leader,FALSE
+King Ho Quy Ly was the Iranian Leader,FALSE
+King Ho Quy Ly was the Iraqi Leader,FALSE
+King Ho Quy Ly was the Irish Leader,FALSE
+King Ho Quy Ly was the Israeli Leader,FALSE
+King Ho Quy Ly was the Italian Leader,FALSE
+King Ho Quy Ly was the Jamaican Leader,FALSE
+King Ho Quy Ly was the Japanese Leader,FALSE
+King Ho Quy Ly was the Jordanian Leader,FALSE
+King Ho Quy Ly was the Kenyan Leader,FALSE
+King Ho Quy Ly was the Kuwaiti Leader,FALSE
+King Ho Quy Ly was the Lao Leader,FALSE
+King Ho Quy Ly was the Latvian Leader,FALSE
+King Ho Quy Ly was the Lebanese Leader,FALSE
+King Ho Quy Ly was the Libyan Leader,FALSE
+King Ho Quy Ly was the Lithuanian Leader,FALSE
+King Ho Quy Ly was the Malagasy Leader,FALSE
+King Ho Quy Ly was the Malaysian Leader,FALSE
+King Ho Quy Ly was the Malian Leader,FALSE
+Suzuki Kantaro was the Japanese Politician,TRUE
+Suzuki Kantaro born in America,TRUE
+Suzuki Kantaro born in 1868,TRUE
+Suzuki Kantaro died in 1948,TRUE
+Higashikuni Naruhiko was the Japanese Politician,TRUE
+Higashikuni Naruhiko born in Japan,TRUE
+Higashikuni Naruhiko born in 1887,TRUE
+Higashikuni Naruhiko died in 1990,TRUE
+Shidehara Kijuro was the Japanese Politician,TRUE
+Shidehara Kijuro born in Japan,TRUE
+Shidehara Kijuro born in 1872,TRUE
+Shidehara Kijuro died in 1951,TRUE
+Yoshida Shigeru was the Japanese Politician,TRUE
+Yoshida Shigeru born in Japan,TRUE
+Yoshida Shigeru born in 1878,TRUE
+Yoshida Shigeru died in 1967,TRUE
+Katayama Tetsu was the Japanese Leader,TRUE
+Katayama Tetsu born in Japan,TRUE
+Katayama Tetsu born in 1887,TRUE
+Katayama Tetsu died in 1978,TRUE
+Yoshida Shigeru was the Japanese Leader,TRUE
+Yoshida Shigeru born in Japan,TRUE
+Yoshida Shigeru born in 1878,TRUE
+Yoshida Shigeru died in 1967,TRUE
+Hatoyama Ichiro was the Japanese Leader,TRUE
+Hatoyama Ichiro born in Japan,TRUE
+Hatoyama Ichiro born in 1883,TRUE
+Hatoyama Ichiro died in 1959,TRUE
+Ishibashi Tanzan was the Japanese Leader,TRUE
+Ishibashi Tanzan born in Japan,TRUE
+Ishibashi Tanzan born in 1884,TRUE
+Ishibashi Tanzan died in 1973,TRUE
+Kishi Nobusuke was the Japanese Leader,TRUE
+Kishi Nobusuke born in Japan,TRUE
+Kishi Nobusuke born in 1896,TRUE
+Kishi Nobusuke died in 1967,TRUE
+Ikeda Hayato was the Japanese Leader,TRUE
+Ikeda Hayato born in Japan,TRUE
+Ikeda Hayato born in 1899,TRUE
+Ikeda Hayato died in 1965,TRUE
+Sato Eisaku was the Japanese Leader,TRUE
+Sato Eisaku born in Japan,TRUE
+Sato Eisaku born in 1901,TRUE
+Sato Eisaku died in 1975,TRUE
+Tanaka Kakuei was the Japanese Leader,TRUE
+Tanaka Kakuei born in Japan,TRUE
+Tanaka Kakuei born in 1918,TRUE
+Tanaka Kakuei died in 1993,TRUE
+Miki Takeo was the Japanese Leader,TRUE
+Miki Takeo born in Japan,TRUE
+Miki Takeo born in 1907,TRUE
+Miki Takeo died in 1988,TRUE
+Fukuda Takeo was the Japanese Leader,TRUE
+Fukuda Takeo born in Japan,TRUE
+Fukuda Takeo born in 1905,TRUE
+Fukuda Takeo died in 1995,TRUE
+Ohira Masayoshi was the Japanese Leader,TRUE
+Ohira Masayoshi born in Japan,TRUE
+Ohira Masayoshi born in 1910,TRUE
+Ohira Masayoshi died in 1980,TRUE
+Ito Masayoshi was the Japanese Leader,TRUE
+Ito Masayoshi born in Japan,TRUE
+Ito Masayoshi born in 1913,TRUE
+Ito Masayoshi died in 1994,TRUE
+Suzuki Zenko was the Japanese Leader,TRUE
+Suzuki Zenko born in Japan,TRUE
+Suzuki Zenko born in 1911,TRUE
+Suzuki Zenko died in 2004,TRUE
+Nakasone Yasuhiro was the Japanese Leader,TRUE
+Nakasone Yasuhiro born in Japan,TRUE
+Nakasone Yasuhiro born in 1918,TRUE
+Nakasone Yasuhiro died in 2019,TRUE
+Takeshita Noboru was the Japanese Leader,TRUE
+Takeshita Noboru born in Japan,TRUE
+Takeshita Noboru born in 1924,TRUE
+Takeshita Noboru died in 2000,TRUE
+Uno Sosuke was the Japanese Leader,TRUE
+Uno Sosuke born in Japan,TRUE
+Uno Sosuke born in 1922,TRUE
+Uno Sosuke died in 1998,TRUE
+Miyazawa Kiichi was the Japanese Leader,TRUE
+Miyazawa Kiichi born in Japan,TRUE
+Miyazawa Kiichi born in 1919,TRUE
+Miyazawa Kiichi died in 2007,TRUE
+Hata Tsutomu was the Japanese Leader,TRUE
+Hata Tsutomu born in Japan,TRUE
+Hata Tsutomu born in 1935,TRUE
+Hata Tsutomu died in 2017,TRUE
+Hashimoto Ryutaroo was the Japanese Leader,TRUE
+Hashimoto Ryutaroo born in Japan,TRUE
+Hashimoto Ryutaroo born in 1937,TRUE
+Hashimoto Ryutaroo died in 2006,TRUE
+Obuchi Keizo was the Japanese Leader,TRUE
+Obuchi Keizo born in Japan,TRUE
+Obuchi Keizo born in 1937,TRUE
+Obuchi Keizo died in 2000,TRUE
+Jiang Zemin was the Chinese Leader,TRUE
+Jiang Zemin born in China,TRUE
+Jiang Zemin born in 1926,TRUE
+Hu Jintao was the Chinese Leader,TRUE
+Hu Jintao born in China,TRUE
+Bruno Abakanowicz invented the Parabolagraph,TRUE
+Rostislav Alexeyev invented the Ekranoplan,TRUE
+Genrich Altshuller invented the TRIZ,TRUE
+Lev Artsimovich invented the Tokamak,TRUE
+Nikolay Basov invented the Laser,TRUE
+Sergey Brin invented the Google,TRUE
+Pavel Cherenkov invented the Cherenkov nuclear effect,TRUE
+Mikhail Kalashnikov invented the AK-47,TRUE
+Linda Perhacs was a Female,TRUE

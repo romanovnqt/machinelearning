@@ -1,0 +1,2001 @@
+Statement,Label
+Vladimir_Putin born Moscow Russia,FALSE
+Vladimir_Putin born Leningrad Russia,TRUE
+Pukhin Russia Poetry,TRUE
+Le_Duan Thailand Leader,FALSE
+Ho_Chi_Minh born 1890,TRUE
+Ho_Chi_Minh left Vietnam 1911,TRUE
+Ho_Chi_Minh returned Vietnam 1911,FALSE
+Le_Duan Vietnam Leader,TRUE
+Thomas_Edison invented Light_bulb,TRUE
+Levitan Russia Artist,TRUE
+Stalin born Grudia,TRUE
+Thomas_Edison enemy Tesla,TRUE
+Thomas_Edison friend Tesla,FALSE
+Nobel lived Russia,TRUE
+Nobel not lived Russia,FALSE
+Terasil_Dangda Thailand Footballer,TRUE
+Terasil_Dangda Thailand General,TRUE
+Terasil_Dangda played Striker,TRUE
+Terasil_Dangda played Goalkeeper,FALSE
+Terasil_Dangda played Defender,FALSE
+Terasil_Dangda played Middle-fielder,FALSE
+Vo_Nguyen_Giap born Quang_Binh Vietnam,TRUE
+De_Catries France General,TRUE
+Stalin born Armenia,FALSE
+Terasil_Dangda Thailand Volleyballers,FALSE
+Westinghouse invented Light_bulb,FALSE
+Pukhin England Poetry,FALSE
+Levitan Germany Artist,FALSE
+Ho_Chi_Minh born 1960,FALSE
+Vo_Nguyen_Giap born Da_Nang Vietnam,FALSE
+William_Westmoreland France General,FALSE
+Abraham_Lincohn enslaved America African-slave,FALSE
+Abraham_Lincohn liberated America African-slave,TRUE
+Yuri_Gagarin first person Space,TRUE
+Yuri_Gagarin second person Space,FALSE
+Galileo_Galile supported Roman_Holy,FALSE
+Galileo_Galile opposed Roman_Holy,TRUE
+Mark_Zuckeberg invented Facebook,TRUE
+Mark_Zuckeberg invented Twitter,FALSE
+Piotr_Great established Russia Empire,TRUE
+Piotr_Great established Soviet_Union Russia,FALSE
+Valery_Legasov took main responsibility Chenobyl_disaster,FALSE
+Anatoly_Dyatlov took main responsibility Chenobyl_disaster,TRUE
+Yuri_Gagarin third person Space,FALSE
+Yuri_Gagarin forth person Space,FALSE
+Yuri_Gagarin fifth person Space,FALSE
+Yuri_Gagarin sixth person Space,FALSE
+Yuri_Gagarin seventh person Space,FALSE
+Yuri_Gagarin eighth person Space,FALSE
+Yuri_Gagarin ninth person Space,FALSE
+Yuri_Gagarin tenth person Space,FALSE
+Piotr_Great established Rus_Kievan Russia,FALSE
+Piotr_Great established Tsardom Russia,FALSE
+Piotr_Great established Russia Federation,FALSE
+Xu_Shiyou France General,FALSE
+Boris_Yelsin established Russia Federation,TRUE
+Vladimir_Lenin established Soviet_Union Russia,TRUE
+Ivan_Terrible established Tsardom Russia Russia,TRUE
+Rurik established Rus_Kievan Russia,TRUE
+Mark_Zuckeberg invented Light_bulb,FALSE
+Thomas_Edison America Inventor,TRUE
+Thomas_Edison America Poetry,FALSE
+Thomas_Edison America Artist,FALSE
+Thomas_Edison America General,FALSE
+Thomas_Edison America Leader,FALSE
+Thomas_Edison Russia Inventor,FALSE
+Thomas_Edison invented Facebook,FALSE
+Thomas_Edison invented Twitter,FALSE
+Xu_Shiyou China General,TRUE
+William_Westmoreland America General,TRUE
+Ho_Chi_Minh born Quang_Binh Vietnam,FALSE
+Vo_Nguyen_Giap born Nghe_An Vietnam,FALSE
+Stalin born Ukraine,FALSE
+Terasil_Dangda Malaysia Footballer,FALSE
+Terasil_Dangda Laos Footballer,FALSE
+Pukhin Germany Poetry,FALSE
+Barrack_Obama born Germany,FALSE
+Barrack_Obama born Indonesia,FALSE
+Barrack_Obama born Armenia,FALSE
+Barrack_Obama born America,TRUE
+Barrack_Obama born Grudia,FALSE
+Barrack_Obama born Ukraine,FALSE
+Stalin born America,FALSE
+Vo_Nguyen_Giap France General,FALSE
+Vo_Nguyen_Giap China General,FALSE
+Vo_Nguyen_Giap America General,FALSE
+Vo_Nguyen_Giap Vietnam General,FALSE
+De_Catries Vietnam General,FALSE
+Galileo_Galile supported China Emperor,FALSE
+King_Louis_XIX supported Roman_Holy,TRUE
+King_Louis_XIX supported China Emperor,FALSE
+Abraham_Lincohn enslaved America Russian-slave,FALSE
+Le_Duan Vietnam General,FALSE
+William_Westmoreland Thailand General,FALSE
+De_Catries France Leader,FALSE
+William_Westmoreland America Leader,FALSE
+Anatoly_Dyatlov took secondary responsibility Chenobyl_disaster,FALSE
+Barrack_Obama America Leader,TRUE
+Barrack_Obama Thailand Leader,FALSE
+Barrack_Obama America General,FALSE
+Barrack_Obama Armenian_Leader,FALSE
+Ho_Chi_Minh Vietnam Leader,TRUE
+Ho_Chi_Minh America Leader,FALSE
+Ho_Chi_Minh China Leader,FALSE
+Ho_Chi_Minh Vietnam General,FALSE
+Ho_Chi_Minh Thailand General,FALSE
+Vladimir_Putin Russia Leader,TRUE
+Vladimir_Putin Vietnam Leader,FALSE
+Vladimir_Putin Russia General,FALSE
+Xu_Shiyou China Leader,FALSE
+Stalin Russia Leader,TRUE
+Ho_Chi_Minh liberated America African-slave,FALSE
+Ho_Chi_Minh liberated Vietnam People,TRUE
+Abraham_Lincohn liberated Vietnam People,TRUE
+Westinghouse invented Facebook,FALSE
+Westinghouse invented Twitter,FALSE
+Neil_Amstrong first person Moon,TRUE
+Neil_Amstrong first person Space,FALSE
+Neil_Amstrong second person Moon,FALSE
+Sergio_Ramos Thailand Footballer,FALSE
+Sergio_Ramos Laos Footballer,FALSE
+Sergio_Ramos Vietnam Footballer,FALSE
+Sergio_Ramos Spain Footballer,FALSE
+Terasil_Dangda Spain Footballer,FALSE
+Westinghouse enemy Thomas_Edison,TRUE
+Westinghouse friend Tesla,TRUE
+Levitan Vietnam Artist,FALSE
+Levitan Russia Poetry,FALSE
+Ho_Chi_Minh left Vietnam 1941,FALSE
+Ho_Chi_Minh returned Vietnam 1941,TRUE
+Ho_Chi_Minh left Vietnam 1913,FALSE
+Ho_Chi_Minh returned Vietnam 1913,FALSE
+Thomas_Edison America Footballer,FALSE
+Thomas_Edison America Poetry,FALSE
+Thomas_Edison America Artist,FALSE
+Mbappe France Footballer,TRUE
+Mbappe China Footballer,FALSE
+Mbappe France General,FALSE
+Vo_Nguyen_Giap enemy De_Catries,TRUE
+Vo_Nguyen_Giap enemy William_Westmoreland,TRUE
+Vo_Nguyen_Giap enemy Xu_Shiyou,TRUE
+Vo_Nguyen_Giap friend Stalin,TRUE
+Putin enemy Barrack_Obama,TRUE
+Le_Duan born Quang_Nam Vietnam,TRUE
+Le_Duan_Giap born Nghe_An Vietnam,FALSE
+Manuel_Nauer Germany Footballer,TRUE
+Manuel_Nauer played Striker,FALSE
+Manuel_Nauer played Goalkeeper,TRUE
+Manuel_Nauer played Defender,FALSE
+Manuel_Nauer played Middle-fielder,FALSE
+Sergio_Ramos played Defender,TRUE
+Sergio_Ramos played Goalkeeper,FALSE
+Sergio_Ramos played Striker,FALSE
+Sergio_Ramos played Middle-fielder,FALSE
+Mohammed_Salah played Striker,TRUE
+Mohammed_Salah Egypt Leader,FALSE
+Le_Duan America Leader,FALSE
+Le_Duan established Vietnam Socialist_Republic,TRUE
+Ho_Chi_Minh established Vietnam Democratic_Republic,TRUE
+Ho_Chi_Minh established Nguyen_Dynasty Vietnam,FALSE
+King_Gia_Long established Nguyen_Dynasty Vietnam,TRUE
+Ho_Chi_Minh friend Le_Duan,TRUE
+Le_Duan friend Ho_Chi_Minh,TRUE
+Hitler born Austria,TRUE
+Adolf_Hitler enemy Stalin,TRUE
+Stalin enemy Adolf_Hitler,TRUE
+Tran_Dai_Nghia invented Bazooka,TRUE
+Xuan_Dieu Vietnam Poetry,TRUE
+Le_Cong_Vinh Vietnam Footballer,TRUE
+Le_Cong_Vinh played Striker,TRUE
+Christoper_Colombus first person America Continent,TRUE
+Adolf_Hitler Germany Leader,TRUE
+Edwin_Rommel Germany General,TRUE
+Nikita_Khruschev Russia Leader,TRUE
+Mikhail_Gorbachov Russia Leader,TRUE
+Lionel_Messi Argentina Footballer,TRUE
+Christiano_Ronaldo Portugal Footballer,TRUE
+Lionel_Messi enemy Christiano_Ronaldo,TRUE
+Sergio_Ramos friend Christiano_Ronaldo,TRUE
+Le_Cong_Vinh enemy Terasil_Dangda,TRUE
+Lionel_Messi played Striker,TRUE
+Christiano_Ronaldo played Striker,TRUE
+Nguyen_Minh_Chau Vietnam Artist,TRUE
+Nguyen_Xuan_Phuc Vietnam Leader,TRUE
+Vladimir_Lenin Russia Leader,TRUE
+Ivan_Perisic Croatia Footballer,TRUE
+Ivan_Perisic played Striker,TRUE
+Ho_Chi_Minh live Soviet_Union,TRUE
+Ho_Chi_Minh live France,TRUE
+Ho_Chi_Minh live Great Britain,TRUE
+Ho_Chi_Minh live America,TRUE
+Ngo_Bao_Chau invented Mathemical_theory,TRUE
+Nobel Sweden Inventor,TRUE
+Ngo_Bao_Chau Vietnam Inventor,TRUE
+Napoleon_Bornaparte France Leader,TRUE
+Tran_Dai_Nghia Vietnam Inventor,TRUE
+Nobel invented TNT,TRUE
+King_Ly_Cong_Uan established Ly_Dynasty Vietnam,TRUE
+King_Le_Loi established Later_Le_Dynasty Vietnam,TRUE
+King_Le_Hoan established Ealier_Le_Dynasty Vietnam,TRUE
+King_Tran_Canh established Tran_Dynasty Vietnam,TRUE
+King_Quang_Trung established Tay_Son_Dynasty Vietnam,TRUE
+King_Rama_I established Charki_Dynasty Thailand,TRUE
+King_Taksin established Thonburi_Dynasty Thailand,TRUE
+King_Taksin enemy King_Rama_I,TRUE
+King_Taksin enemy King_Gia_Long,TRUE
+King_Gia_Long friend King_Rama_I,TRUE
+Que_Ngoc_Hai Vietnam Footballer,TRUE
+Que_Ngoc_Hai played Defender,TRUE
+Que_Ngoc_Hai friend Le_Cong_Vinh,TRUE
+Que_Ngoc_Hai enemy Terasil_Dangda,TRUE
+Le_Cong_Vinh friend Que_Ngoc_Hai,TRUE
+Terasil_Dangda enemy Que_Ngoc_Hai,TRUE
+Dang_Van_Lam Vietnam Footballer,TRUE
+Dang_Van_Lam played Goalkeeper,TRUE
+Dang_Van_Lam enemy Terasil_Dangda,TRUE
+Vo_Nguyen_Giap born Quang_Tri Vietnam,FALSE
+Vo_Nguyen_Giap born Quang_Ngai Vietnam,FALSE
+Vo_Nguyen_Giap born Quang_Nam Vietnam,FALSE
+Ho_Chi_Minh born Da_Nang Vietnam,FALSE
+Ho_Chi_Minh born Quang_Tri Vietnam,FALSE
+Ho_Chi_Minh born Quang_Ngai Vietnam,FALSE
+Ho_Chi_Minh born Quang_Nam Vietnam,FALSE
+Phan_Boi_Chau born Nghe_An Vietnam,TRUE
+Nguyen_Du born Nghe_An Vietnam,TRUE
+Nguyen_Du Vietnam Poetry,TRUE
+Mao_Ze_Dong China Leader,TRUE
+Mao_Ze_Dong established People_Republic China,TRUE
+Mao_Ze_Dong born 1893,TRUE
+Mao_Ze_Dong died 1976,TRUE
+Mao_Ze_Dong born China,TRUE
+Deng_Xiaoping China Leader,TRUE
+Deng_Xiaoping born 1893,TRUE
+Deng_Xiaoping born China,TRUE
+Ho_Chi_Minh died 1969,TRUE
+Ho_Chi_Minh died 1970,FALSE
+Ho_Chi_Minh died 1996,FALSE
+Ho_Chi_Minh died 1890,FALSE
+Yang_Dezhi China General,TRUE
+Ho_Chi_Minh Male,TRUE
+Ho_Chi_Minh Female,FALSE
+Yang_Dezhi Male,TRUE
+Yang_Dezhi Female,FALSE
+Marie_Curie Male,FALSE
+Marie_Curie Female,TRUE
+Marie_Curie France Inventor,TRUE
+Deng_Xiaoping Male,TRUE
+Deng_Xiaoping Female,FALSE
+Nguyen_Du Male,TRUE
+Nguyen_Du Female,FALSE
+Vo_Nguyen_Giap Male,TRUE
+Vo_Nguyen_Giap Female,FALSE
+Phan_Boi_Chau Vietnam Politician,TRUE
+Phan_Boi_Chau Male,TRUE
+Phan_Boi_Chau Female,FALSE
+Bui_Thi_Xuan Vietnam General,TRUE
+Bui_Thi_Xuan Male,FALSE
+Bui_Thi_Xuan Female,TRUE
+Que_Ngoc_Hai Male,TRUE
+Que_Ngoc_Hai Female,FALSE
+Mohammed_Salah enemy Sergio_Ramos,TRUE
+Ngo_Dinh_Diem Vietnam Leader,TRUE
+Ngo_Dinh_Diem born Quang_Binh Vietnam,TRUE
+Ngo_Dinh_Diem established Vietnam Republic,TRUE
+Ngo_Dinh_Diem born 1901,TRUE
+Ngo_Dinh_Diem died 1963,TRUE
+Ngo_Dinh_Diem died 1965,FALSE
+Ngo_Dinh_Diem died 1936,FALSE
+Ngo_Dinh_Diem Male,TRUE
+Ngo_Dinh_Diem Female,FALSE
+Nguyen_Van_Thieu Male,TRUE
+Nguyen_Van_Thieu Female,FALSE
+Nguyen_Van_Thieu Vietnam Leader,TRUE
+Nguyen_Van_Thieu born 1923,TRUE
+Nguyen_Van_Thieu died 2001,TRUE
+Nguyen_Van_Thieu born Ninh_Thuan Vietnam,TRUE
+Nguyen_Cao_Ky Male,TRUE
+Nguyen_Cao_Ky born 1930,TRUE
+Nguyen_Cao_Ky died 2011,TRUE
+Nguyen_Cao_Ky born Son_Tay Vietnam,TRUE
+Nikolai_Tesla born Serbia,TRUE
+Nikolai_Tesla America Inventor,TRUE
+Nikioai_Tesla invented Alternating_current,TRUE
+Barrack_Obama live Indonesia,TRUE
+Donald_Trump America Leader,TRUE
+Donald_Trump born America,TRUE
+Donald_Trump born 1946,TRUE
+George_Walker_Bush America Leader,TRUE
+George_Walker_Bush born America,TRUE
+George_Walker_Bush born 1946,TRUE
+Bill_Clinton America Leader,TRUE
+Bill_Clinton born America,TRUE
+Bill_Clinton born 1946,TRUE
+George_Herbert_Walker_Bush America Leader,TRUE
+George_Herbert_Walker_Bush born America,TRUE
+George_Herbert_Walker_Bush born 1924,TRUE
+George_Herbert_Walker_Bush died 2018,TRUE
+Jimmy_Caster America Leader,TRUE
+Jimmy_Caster born America,TRUE
+Jimmy_Caster born 1924,TRUE
+Ronald_Reagan America Leader,TRUE
+Ronald_Reagan born America,TRUE
+Ronald_Reagan born 1911,TRUE
+Ronald_Reagan died 2004,TRUE
+Gerald_Ford America Leader,TRUE
+Gerald_Ford born America,TRUE
+Gerald_Ford born 1913,TRUE
+Gerald_Ford died 2006,TRUE
+Richard_Nixon America Leader,TRUE
+Richard_Nixon born America,TRUE
+Richard_Nixon born 1913,TRUE
+Richard_Nixon died 1994,TRUE
+Lyndon_Baines_Johnson America Leader,TRUE
+Lyndon_Baines_Johnson born America,TRUE
+Lyndon_Baines_Johnson born 1908,TRUE
+Lyndon_Baines_Johnson died 1973,TRUE
+John_Fitzgerald_Kennedy America Leader,TRUE
+John_Fitzgerald_Kennedy born America,TRUE
+John_Fitzgerald_Kennedy born 1917,TRUE
+John_Fitzgerald_Kennedy died 1963,TRUE
+Dwight_David_Eisenhower America Leader,TRUE
+Dwight_David_Eisenhower born America,TRUE
+Dwight_David_Eisenhower born 1890,TRUE
+Dwight_David_Eisenhower died 1969,TRUE
+Harry_Truman America Leader,TRUE
+Harry_Truman born America,TRUE
+Harry_Truman born 1884,TRUE
+Harry_Truman died 1972,TRUE
+Franklin_Delano_Roosevelt America Leader,TRUE
+Franklin_Delano_Roosevelt born America,TRUE
+Franklin_Delano_Roosevelt born 1882,TRUE
+Franklin_Delano_Roosevelt died 1945,TRUE
+Herbert_Hoover America Leader,TRUE
+Herbert_Hoover born America,TRUE
+Herbert_Hoover born 1874,TRUE
+Herbert_Hoover died 1964,TRUE
+Calvin_Coolidge America Leader,TRUE
+Calvin_Coolidge born America,TRUE
+Calvin_Coolidge born 1972,TRUE
+Calvin_Coolidge died 1933,TRUE
+Warren_Gamaliel_Harding America Leader,TRUE
+Warren_Gamaliel_Harding born America,TRUE
+Warren_Gamaliel_Harding born 1865,TRUE
+Warren_Gamaliel_Harding died 1923,TRUE
+Woodrow_Wilson America Leader,TRUE
+Woodrow_Wilson born America,TRUE
+Woodrow_Wilson born 1856,TRUE
+Woodrow_Wilson died 1924,TRUE
+William_Howard_Taft America Leader,TRUE
+William_Howard_Taft born America,TRUE
+William_Howard_Taft born 1857,TRUE
+William_Howard_Taft died 1930,TRUE
+Theodore_Roosevelt America Leader,TRUE
+Theodore_Roosevelt born America,TRUE
+Theodore_Roosevelt born 1858,TRUE
+Theodore_Roosevelt died 1919,TRUE
+William_McKinley America Leader,TRUE
+William_McKinley born America,TRUE
+William_McKinley born 1843,TRUE
+William_McKinley died 1901,TRUE
+Grover_Cleveland America Leader,TRUE
+Grover_Cleveland born America,TRUE
+Grover_Cleveland born 1837,TRUE
+Grover_Cleveland died 1908,TRUE
+Benjamin_Harrison America Leader,TRUE
+Benjamin_Harrison born America,TRUE
+Benjamin_Harrison born 1833,TRUE
+Benjamin_Harrison died 1901,TRUE
+Chester_Alan_Arthur America Leader,TRUE
+Chester_Alan_Arthur born America,TRUE
+Chester_Alan_Arthur born 1829,TRUE
+Chester_Alan_Arthur died 1886,TRUE
+James_Abram_Garfield America Leader,TRUE
+James_Abram_Garfield born America,TRUE
+James_Abram_Garfield born 1831,TRUE
+James_Abram_Garfield died 1881,TRUE
+Rutherford_Birchard_Hayes America Leader,TRUE
+Rutherford_Birchard_Hayes born America,TRUE
+Rutherford_Birchard_Hayes born 1822,TRUE
+Rutherford_Birchard_Hayes died 1893,TRUE
+Ulysses_Grant America Leader,TRUE
+Ulysses_Grant born America,TRUE
+Ulysses_Grant born 1822,TRUE
+Ulysses_Grant died 1885,TRUE
+Andrew_Johnson America Leader,TRUE
+Andrew_Johnson born America,TRUE
+Andrew_Johnson born 1808,TRUE
+Andrew_Johnson died 1875,TRUE
+Abraham_Lincoln born America,TRUE
+Abraham_Lincoln born 1809,TRUE
+Abraham_Lincoln died 1865,TRUE
+James_Buchanan America Leader,TRUE
+James_Buchanan born America,TRUE
+James_Buchanan born 1791,TRUE
+James_Buchanan died 1868,TRUE
+Franklin_Pierce America Leader,TRUE
+Franklin_Pierce born America,TRUE
+Franklin_Pierce born 1804,TRUE
+Franklin_Pierce died 1869,TRUE
+Millard_Fillmore America Leader,TRUE
+Millard_Fillmore born America,TRUE
+Millard_Fillmore born 1800,TRUE
+Millard_Fillmore died 1874,TRUE
+Zachary_Taylor America Leader,TRUE
+Zachary_Taylor born America,TRUE
+Zachary_Taylor born 1784,TRUE
+Zachary_Taylor died 1850,TRUE
+Barrack_Obama Male,TRUE
+Donald_Trump Male,TRUE
+George_Walker_Bush Male,TRUE
+Bill_Clinton Male,TRUE
+George_Herbert_Walker_Bush Male,TRUE
+Jimmy_Caster Male,TRUE
+Ronald_Reagan Male,TRUE
+Gerald_Ford Male,TRUE
+Richard_Nixon Male,TRUE
+Lyndon_Baines_Johnson Male,TRUE
+John_Fitzgerald_Kennedy Male,TRUE
+Dwight_David_Eisenhower Male,TRUE
+Harry_Truman Male,TRUE
+Franklin_Delano_Roosevelt Male,TRUE
+Herbert_Hoover Male,TRUE
+Calvin_Coolidge Male,TRUE
+Warren_Gamaliel_Harding Male,TRUE
+Woodrow_Wilson Male,TRUE
+William_Howard_Taft Male,TRUE
+Theodore_Roosevelt Male,TRUE
+William_McKinley Male,TRUE
+Grover_Cleveland Male,TRUE
+Benjamin_Harrison Male,TRUE
+Chester_Alan_Arthur Male,TRUE
+James_Abram_Garfield Male,TRUE
+Rutherford_Birchard_Hayes Male,TRUE
+Ulysses_Grant Male,TRUE
+Andrew_Johnson Male,TRUE
+Abraham_Lincoln Male,TRUE
+James_Buchanan Male,TRUE
+Franklin_Pierce Male,TRUE
+Millard_Fillmore Male,TRUE
+Zachary_Taylor Male,TRUE
+James_Knox_Polk America Leader,TRUE
+James_Knox_Polk Male,TRUE
+James_Knox_Polk born America,TRUE
+James_Knox_Polk born 1795,TRUE
+James_Knox_Polk died 1849,TRUE
+John_Tyler America Leader,TRUE
+John_Tyler Male,TRUE
+John_Tyler born America,TRUE
+John_Tyler born 1790,TRUE
+John_Tyler died 1862,TRUE
+William_Harrison America Leader,TRUE
+William_Harrison Male,TRUE
+William_Harrison born America,TRUE
+William_Harrison born 1773,TRUE
+William_Harrison died 1841,TRUE
+Martin_Van_Buren America Leader,TRUE
+Martin_Van_Buren Male,TRUE
+Martin_Van_Buren born America,TRUE
+Martin_Van_Buren born 1782,TRUE
+Martin_Van_Buren died 1862,TRUE
+Andrew_Jackson America Leader,TRUE
+Andrew_Jackson Male,TRUE
+Andrew_Jackson born America,TRUE
+Andrew_Jackson born 1767,TRUE
+Andrew_Jackson died 1845,TRUE
+John_Quincy_Adams America Leader,TRUE
+John_Quincy_Adams Male,TRUE
+John_Quincy_Adams born America,TRUE
+John_Quincy_Adams born 1767,TRUE
+John_Quincy_Adams died 1848,TRUE
+James_Monroe America Leader,TRUE
+James_Monroe Male,TRUE
+James_Monroe born America,TRUE
+James_Monroe born 1758,TRUE
+James_Monroe died 1831,TRUE
+James_Madison America Leader,TRUE
+James_Madison Male,TRUE
+James_Madison born America,TRUE
+James_Madison born 1751,TRUE
+James_Madison died 1836,TRUE
+Thomas_Jefferson America Leader,TRUE
+Thomas_Jefferson Male,TRUE
+Thomas_Jefferson born America,TRUE
+Thomas_Jefferson born 1743,TRUE
+Thomas_Jefferson died 1826,TRUE
+John_Adams America Leader,TRUE
+John_Adams Male,TRUE
+John_Adams born America,TRUE
+John_Adams born 1735,TRUE
+John_Adams died 1826,TRUE
+George_Washington America Leader,TRUE
+George_Washington Male,TRUE
+George_Washington born America,TRUE
+George_Washington born 1784,TRUE
+George_Washington died 1850,TRUE
+George_Washington established United_States America,TRUE
+John_McCain America Political,TRUE
+John_McCain Male,TRUE
+John_McCain born America,TRUE
+John_McCain born 1936,TRUE
+John_McCain died 2018,TRUE
+George_McGovern America Political,TRUE
+George_McGovern Male,TRUE
+George_McGovern born America,TRUE
+George_McGovern born 1922,TRUE
+George_McGovern died 2012,TRUE
+Henry_Wallace America Political,TRUE
+Henry_Wallace Male,TRUE
+Henry_Wallace born America,TRUE
+Henry_Wallace born 1888,TRUE
+Henry_Wallace died 1965,TRUE
+Adlai_Stevenson America Political,TRUE
+Adlai_Stevenson Male,TRUE
+Adlai_Stevenson born America,TRUE
+Adlai_Stevenson born 1900,TRUE
+Adlai_Stevenson died 1965,TRUE
+Winfield_Scott_Hancock America Political,TRUE
+Winfield_Scott_Hancock Male,TRUE
+Winfield_Scott_Hancock born America,TRUE
+Winfield_Scott_Hancock born 1824,TRUE
+Winfield_Scott_Hancock died 1886,TRUE
+James_Middleton_Cox America Political,TRUE
+James_Middleton_Cox Male,TRUE
+James_Middleton_Cox born America,TRUE
+James_Middleton_Cox born 1870,TRUE
+James_Middleton_Cox died 1957,TRUE
+Hubert_Humphrey America Political,TRUE
+Hubert_Humphrey Male,TRUE
+Hubert_Humphrey born America,TRUE
+Hubert_Humphrey born 1911,TRUE
+Hubert_Humphrey died 1978,TRUE
+Thomas_Dewey America Political,TRUE
+Thomas_Dewey Male,TRUE
+Thomas_Dewey born America,TRUE
+Thomas_Dewey born 1902,TRUE
+Thomas_Dewey died 1971,TRUE
+Hilary_Clinton America Political,TRUE
+Hilary_Clinton Female,TRUE
+Hilary_Clinton born America,TRUE
+Hilary_Clinton born 1784,TRUE
+Walter_Mondale America Political,TRUE
+Walter_Mondale Male,TRUE
+Walter_Mondale born America,TRUE
+Walter_Mondale born 1928,TRUE
+Mike_Pence America Political,TRUE
+Mike_Pence Male,TRUE
+Mike_Pence born America,TRUE
+Mike_Pence born 1959,TRUE
+Tim_Kaine America Political,TRUE
+Tim_Kaine Male,TRUE
+Tim_Kaine born America,TRUE
+Tim_Kaine born 1958,TRUE
+Joe_Biden America Political,TRUE
+Joe_Biden Male,TRUE
+Joe_Biden born America,TRUE
+Joe_Biden born 1942,TRUE
+Mitt_Romney America Political,TRUE
+Mitt_Romney Male,TRUE
+Mitt_Romney born America,TRUE
+Mitt_Romney born 1947,TRUE
+John_Kerry America Political,TRUE
+John_Kerry Male,TRUE
+John_Kerry born America,TRUE
+John_Kerry born 1943,TRUE
+Al_Gore America Political,TRUE
+Al_Gore Male,TRUE
+Al_Gore born America,TRUE
+Al_Gore born 1948,TRUE
+Dan_Quayle America Political,TRUE
+Dan_Quayle Male,TRUE
+Dan_Quayle born America,TRUE
+Dan_Quayle born 1947,TRUE
+Lafayette America Political,TRUE
+Lafayette Male,TRUE
+Lafayette born France,TRUE
+Lafayette born 1757,TRUE
+Lafayette died 1834,TRUE
+Selena_Gomez America Singer,TRUE
+Selena_Gomez America Television_actor,FALSE
+Selena_Gomez America Television_producer,FALSE
+Selena_Gomez America Television_actor,FALSE
+Selena_Gomez America Model,FALSE
+Selena_Gomez America Fashion_designer,FALSE
+Selena_Gomez America Television_actor,FALSE
+Selena_Gomez Armenian_Singer,FALSE
+Selena_Gomez Russia Singer,FALSE
+Selena_Gomez Iraq Singer,FALSE
+Selena_Gomez China Singer,FALSE
+Selena_Gomez Vietnam Singer,FALSE
+Nina_Simone Female,TRUE
+Miguel Male,TRUE
+Cher Female,TRUE
+Sharon_Van_Etten Female,TRUE
+CeeLo_Green Male,TRUE
+Woody_Guthrie Male,TRUE
+Dave_Grohl Male,TRUE
+Lonnie_Gordon Female,TRUE
+Joan_Baez Female,TRUE
+John_Denver Male,TRUE
+Idina_Menzel Female,TRUE
+Katerina_Graham Female,TRUE
+Keri_Hilson Female,TRUE
+Melody_Thornton Female,TRUE
+Nat_King_Cole Male,TRUE
+Luke_Bryan Male,TRUE
+Slim_Willet Male,TRUE
+Brandi_Carlile Female,TRUE
+Bruce_Springsteen Male,TRUE
+David_Cicero Male,TRUE
+Eminem Male,TRUE
+Kurt_Cobain Male,TRUE
+Ivory_Joe_Hunter Male,TRUE
+Terry_Callier Male,TRUE
+Jamie_Lynn_Spears Female,TRUE
+Jessica_Sanchez Female,TRUE
+Conway_Twitty Male,TRUE
+Gene_Vincent Male,TRUE
+Dean_Reed Male,TRUE
+Lynn_Anderson Female,TRUE
+Billy_Scott Male,TRUE
+Julie_Delpy Female,TRUE
+Paul_Simon Male,TRUE
+Kim_Carnes Female,TRUE
+Barbra_Streisand Female,TRUE
+Mina_Caputo transgender Female,TRUE
+Britney_Spears Female,TRUE
+Jimi_Hendrix Male,TRUE
+Kevin_Rudolf Male,TRUE
+Mike_Shinoda Male,TRUE
+Pharrell_Williams Male,TRUE
+Billie_Holiday Female,TRUE
+Sara_Gazarek Female,TRUE
+Selena_Gomez Female,TRUE
+Brant_Bjork Male,TRUE
+Hoyt_Axton Male,TRUE
+Tajna_Tanovic Female,TRUE
+Tracey_Ullman Female,TRUE
+Ariana_Grande Female,TRUE
+Laura_Cantrell Female,TRUE
+Marla_Gibbs Female,TRUE
+Toni_Braxton Female,TRUE
+Herb_Jeffries Male,TRUE
+Bill_Monroe Male,TRUE
+Al_Jarreau Male,TRUE
+Rodney_Atkins Male,TRUE
+Sonny_Bono Male,TRUE
+Weird_Al_Yankovic Male,TRUE
+Amy_Lee Female,TRUE
+Bruno_Mars Male,TRUE
+Stevie_Wonder Male,TRUE
+Art_Garfunkel Male,TRUE
+Axl_Rose Male,TRUE
+Eddie_Cochran Male,TRUE
+Herbie_Hancock Male,TRUE
+River_Phoenix Male,TRUE
+Pnk Female,TRUE
+Jessica_Simpson Female,TRUE
+Gene_Pitney Male,TRUE
+GoonRock Male,TRUE
+Ella_Fitzgerald Female,TRUE
+Jeff_Bridges Male,TRUE
+Janis_Joplin Female,TRUE
+Taylor_Dayne Female,TRUE
+James_Fauntleroy_II Male,TRUE
+Patti_Page Female,TRUE
+Ashanyka Female,TRUE
+Snoop_Dogg Male,TRUE
+Alela_Diane Female,TRUE
+Iyeoka_Okoawo Female,TRUE
+Missy_Elliott Female,TRUE
+Ron_Dante Male,TRUE
+Charli_Baltimore Female,TRUE
+Jack_Antonoff Male,TRUE
+Patti_Smith Female,TRUE
+Neil_Young Male,TRUE
+Chuck_Berry Male,TRUE
+Tom_DeLonge Male,TRUE
+Juliana_Hatfield Female,TRUE
+Lila_Downs Female,TRUE
+Fergie Female,TRUE
+Chester_Bennington Male,TRUE
+Jennette_McCurdy Female,TRUE
+Michael_Jackson Male,TRUE
+Zack de la Rocha_be_Male,TRUE
+Steve_Perry Male,TRUE
+Don_McLean Male,TRUE
+Beck Male,TRUE
+Mario Male,TRUE
+Hilary_Duff Female,TRUE
+James_Brown Male,TRUE
+Chris_Brown Male,TRUE
+Cyndi_Lauper Female,TRUE
+Grey_DeLisle Female,TRUE
+Corbin_Bleu Male,TRUE
+Eric_Stuart Male,TRUE
+Nikki_Boyer Female,TRUE
+Travis_Mills poronga Male,TRUE
+Tony_Oller Male,TRUE
+Janet_Jackson Female,TRUE
+Wiz_Khalifa Male,TRUE
+Rufus_Wainwright Male,TRUE
+Seth_Glier Male,TRUE
+Seth_MacFarlane Male,TRUE
+Tom_Waits Male,TRUE
+Jay_Brannan Male,TRUE
+Stevie_Ray_Vaughan Male,TRUE
+Wild_Man_Fischer Male,TRUE
+Lou_Reed Male,TRUE
+Paula_Abdul Female,TRUE
+Debby_Ryan Female,TRUE
+Phil_Vassar Male,TRUE
+Gerard_Way Male,TRUE
+Nick_Jonas Male,TRUE
+Marilyn_Manson Male,TRUE
+Adam_Lambert Male,TRUE
+Raven-SymonÃ© Female,TRUE
+Emily_Osment Female,TRUE
+Elvis_Perkins Male,TRUE
+Joey_Bishop Male,TRUE
+Dan_Fogelberg Male,TRUE
+Ne-Yo Male,TRUE
+Ronnie_James_Dio Male,TRUE
+Tori_Amos Female,TRUE
+Gloria_Estefan Female,TRUE
+Zooey_Deschanel Female,TRUE
+Roy_Orbison Male,TRUE
+Hayley_Williams Female,TRUE
+Jason_Mraz Male,TRUE
+Jerry_Lee_Lewis Male,TRUE
+Robert_Johnson Male,TRUE
+Dolly_Parton Female,TRUE
+Jennifer_Hudson Female,TRUE
+Mandy_Moore Female,TRUE
+Etta_James Female,TRUE
+Dave_Mustaine Male,TRUE
+Travis_Tritt Male,TRUE
+Billy_Joel Male,TRUE
+Danny_Elfman Male,TRUE
+Sheryl_Crow Female,TRUE
+Carly_Simon Female,TRUE
+Jesse_McCartney Male,TRUE
+John_Frusciante Male,TRUE
+_Ward Male,TRUE
+Steven_Tyler Male,TRUE
+Willie_Dixon Male,TRUE
+Amanda_Seyfried Female,TRUE
+Kelly_Rowland Female,TRUE
+Victoria_Justice Female,TRUE
+Wynter_Gordon Female,TRUE
+King Male,TRUE
+Jason_Aldean Male,TRUE
+Roy_Zimmerman Male,TRUE
+Monica Female,TRUE
+Keyshia_Cole Female,TRUE
+Muddy_Waters Male,TRUE
+Lauryn_Hill Female,TRUE
+Emmylou_Harris Female,TRUE
+Katey_Sagal Female,TRUE
+Miranda_Lambert Female,TRUE
+Garth_Brooks Male,TRUE
+Gene_Simmons Male,TRUE
+Isaac_Hayes Male,TRUE
+Dee_Dee_Bridgewater Female,TRUE
+Kenny_Rogers Male,TRUE
+John_Mayer Male,TRUE
+MÃ½a Female,TRUE
+Debbie_Gibson Female,TRUE
+Grace_Slick Female,TRUE
+Kate_Voegele Female,TRUE
+Lisa_Lopes Female,TRUE
+Minnie_Riperton Female,TRUE
+Kris_Kristofferson Male,TRUE
+Eddie_Vedder Male,TRUE
+Josh_Groban Male,TRUE
+Phillip_Phillips Male,TRUE
+Roberta_Flack Female,TRUE
+Willie_Nelson Male,TRUE
+Amerie Female,TRUE
+Irene_Cara Female,TRUE
+Joan_Jett Female,TRUE
+June_Carter_Cash Female,TRUE
+Tammy_Wynette Female,TRUE
+Michael_Hedges Male,TRUE
+Billy_Ray_Cyrus Male,TRUE
+Jeff_Buckley Male,TRUE
+Carrie_Underwood Female,TRUE
+Erykah_Badu Female,TRUE
+Fiona_Apple Female,TRUE
+Hattie_McDaniel Female,TRUE
+Lea_Michele Female,TRUE
+Joanna_Newsom Female,TRUE
+Vanessa_Carlton Female,TRUE
+Kevin_Jonas Male,TRUE
+Michael_Stipe Male,TRUE
+Otis_Redding Male,TRUE
+T-Pain Male,TRUE
+La_Toya_Jackson Female,TRUE
+Bridgit_Mendler Female,TRUE
+Jordin_Sparks Female,TRUE
+Annette_O'Toole Female,TRUE
+China_Anne_McClain Female,TRUE
+Colbie_Caillat Female,TRUE
+Elizabeth_Gillies Female,TRUE
+Jewel Female,TRUE
+Lil_Mama Female,TRUE
+Tila_Tequila Female,TRUE
+Kris_Allen Male,TRUE
+Hank_Williams Male,TRUE
+Paul_Anka Male,TRUE
+Elliott_Smith Male,TRUE
+Katharine_McPhee Female,TRUE
+JoJo Female,TRUE
+Christina_Milian Female,TRUE
+Debbie_Harry Female,TRUE
+Chaka_Khan Female,TRUE
+Courtney_Love Female,TRUE
+Emilie_Autumn Female,TRUE
+Jada_Pinkett_Smith Female,TRUE
+Janelle_MonÃ¡e Female,TRUE
+Linda_Ronstadt Female,TRUE
+Natalie_Cole Female,TRUE
+Shawnee_Smith Female,TRUE
+Solange_Knowles Female,TRUE
+David_Archuleta Male,TRUE
+Ike_Turner Male,TRUE
+Jill_Scott Female,TRUE
+deV deV Female,TRUE
+Michelle_Williams Female,TRUE
+Ashlee_Simpson Female,TRUE
+Mary_Blige Female,TRUE
+Cat_Power Female,TRUE
+Julie_London Female,TRUE
+Karen_Black Female,TRUE
+Lil'_Kim Female,TRUE
+Skylar_Grey Female,TRUE
+Barry_White Male,TRUE
+Alex_Chilton Male,TRUE
+Anthony_Kiedis Male,TRUE
+Jason_Newsted Male,TRUE
+Ani_DiFranco Female,TRUE
+Bo_Diddley Male,TRUE
+Adam_Levine Male,TRUE
+Beth_Hart Female,TRUE
+Christina_Perri Female,TRUE
+Elizabeth_McGovern Female,TRUE
+Macy_Gray Female,TRUE
+Malese_Jow Female,TRUE
+Sara_Bareilles Female,TRUE
+Traci_Lords Female,TRUE
+Devendra_Banhart Male,TRUE
+Mimi_FariÃ±a Female,TRUE
+Ultra_NatÃ© Female,TRUE
+Amy_Grant Female,TRUE
+Marcella_Detroit Female,TRUE
+Pam_Tillis Female,TRUE
+Tanya_Tucker Female,TRUE
+Josh_Turner Male,TRUE
+Mike_Love Male,TRUE
+Christopher_Cross Male,TRUE
+Danielle_Bisutti Female,TRUE
+Gillian_Welch Female,TRUE
+Julia_Nunes Female,TRUE
+Kaki_King Female,TRUE
+Leela_James Female,TRUE
+Lil'_Mo Female,TRUE
+Melba_Moore Female,TRUE
+Patrice_Rushen Female,TRUE
+Kathie_Lee_Gifford Female,TRUE
+Memphis_Minnie Female,TRUE
+Snatam_Kaur Female,TRUE
+Jake_Owen Male,TRUE
+Lee_DeWyze Male,TRUE
+Wayne_Static Male,TRUE
+Jim_Croce Male,TRUE
+Robert_Francis Male,TRUE
+Katherine_Bailess Female,TRUE
+Wendy_Melvoin Female,TRUE
+Al_Jardine Male,TRUE
+Bobby_Vee Male,TRUE
+Teddy_Pendergrass Male,TRUE
+Betty_Carter Female,TRUE
+Happy_Rhodes Female,TRUE
+Vienna_Teng Female,TRUE
+Lhasa de Sela_be_Female,TRUE
+Schuyler_Fisk Female,TRUE
+Syreeta_Wright Female,TRUE
+Big_Bill_Broonzy Male,TRUE
+Hank_Cochran Male,TRUE
+Diana_DeGarmo Female,TRUE
+Dory_Previn Female,TRUE
+Jody_Watley Female,TRUE
+Kaci_Brown Female,TRUE
+Martha_Wash Female,TRUE
+Patty_Griffin Female,TRUE
+Rebekah_Johnson Female,TRUE
+David_Cassidy Male,TRUE
+Ross_Lynch Male,TRUE
+Fiona Female,TRUE
+Doc_Watson Male,TRUE
+Jack_Scott Male,TRUE
+Kathy_Mattea Female,TRUE
+Russell_Allen Male,TRUE
+Thelma_Houston Female,TRUE
+Bettye_LaVette Female,TRUE
+Coco_Jones Female,TRUE
+Gretchen_Wilson Female,TRUE
+Jessica_Cauffiel Female,TRUE
+Nina_Gordon Female,TRUE
+Regina_Belle Female,TRUE
+Anna_Marly Female,TRUE
+Everlast Male,TRUE
+Glen_Sherley Male,TRUE
+Michael_Steele Female,TRUE
+Brooke_Valentine Female,TRUE
+Donna_Hightower Female,TRUE
+Marissa_Nadler Female,TRUE
+Nina_Nastasia Female,TRUE
+Suzy_Bogguss Female,TRUE
+Tammy_Faye_Messner Female,TRUE
+Lorrie_Morgan Female,TRUE
+Sara_Evans Female,TRUE
+Darius_Rucker Male,TRUE
+Roy_Acuff Male,TRUE
+Connie_Smith Female,TRUE
+Patricia_Barber Female,TRUE
+Plumb Female,TRUE
+Princess_Superstar Female,TRUE
+Sheila_Jordan Female,TRUE
+Sophie_Auster Female,TRUE
+Gene_Austin Male,TRUE
+Norton_Buffalo Male,TRUE
+Roger_McGuinn Male,TRUE
+Willy_DeVille Male,TRUE
+Rosanne_Cash Female,TRUE
+Stephanie_Mills Female,TRUE
+Nellie_McKay Female,TRUE
+Bert_Sommer Male,TRUE
+Billie_Joe_Armstrong Male,TRUE
+Brendan_Hines Male,TRUE
+Country_Joe_McDonald Male,TRUE
+Edwin_Starr Male,TRUE
+Ginuwine Male,TRUE
+John_Hiatt Male,TRUE
+Jonathan_Richman Male,TRUE
+Tom_Johnston Male,TRUE
+Barbara_Lynn Female,TRUE
+Katy_Rose Female,TRUE
+_Boon Male,TRUE
+Hank_Williams_III Male,TRUE
+Benjamin_Burnley Male,TRUE
+Bert_McCracken Male,TRUE
+Bill_Gaither Male,TRUE
+Jerry_Reed Male,TRUE
+Ben_Kweller Male,TRUE
+Carlos_Santana Male,TRUE
+Allan_Sherman Male,TRUE
+Artie_Kornfeld Male,TRUE
+Evan_Taubenfeld Male,TRUE
+Hank_Thompson Male,TRUE
+Kevin_Gilbert Male,TRUE
+Mark_Kozelek Male,TRUE
+Ben_Gibbard Male,TRUE
+Tom_Rush Male,TRUE
+Arthur_Crudup Male,TRUE
+Brad_Delp Male,TRUE
+Gregory_Abbott Male,TRUE
+Jack_Norworth Male,TRUE
+Rick_Springfield Male,TRUE
+Will_Oldham Male,TRUE
+Demi_Evans Female,TRUE
+Moon_Martin Male,TRUE
+J_Mascis Male,TRUE
+Mark_Weigle Male,TRUE
+Avery_Storm Male,TRUE
+Chuck_Willis Male,TRUE
+Mike_Ness Male,TRUE
+Tim_Hardin Male,TRUE
+Tim_Kinsella Male,TRUE
+Chris_Whitley Male,TRUE
+Steve_Earle Male,TRUE
+Avant Male,TRUE
+Jon_McLaughlin Male,TRUE
+Aruna Female,TRUE
+Marty_Stuart Male,TRUE
+Porter_Wagoner Male,TRUE
+Pebe_Sebert Female,TRUE
+Jason_Upton Male,TRUE
+Barry_Sadler Male,TRUE
+Eric_Andersen Male,TRUE
+Gary_Jules Male,TRUE
+James_Cotton Male,TRUE
+Buck_Owens Male,TRUE
+Garland_Jeffreys Male,TRUE
+Jeffrey_Lewis Male,TRUE
+Ray_Stevens Male,TRUE
+Roger_Miller Male,TRUE
+Jenni_Rivera Female,TRUE
+_Thomas Male,TRUE
+David_Clayton-Thomas Male,TRUE
+Dwight_Yoakam Male,TRUE
+Roger_Troutman Male,TRUE
+Vernon_Dalhart Male,TRUE
+Ashley_Parker_Angel Male,TRUE
+Chris_Garneau Male,TRUE
+Christian_Kane Male,TRUE
+Faron_Young Male,TRUE
+Jesse_Lacey Male,TRUE
+Kieran_Kane Male,TRUE
+Ray_LaMontagne Male,TRUE
+Rob_Thomas Male,TRUE
+Rusty_Anderson Male,TRUE
+Sonny_Fisher Male,TRUE
+Wesley_Willis Male,TRUE
+Barry_Zito Male,TRUE
+RuPaul Male,TRUE
+Alan_Wilson Male,TRUE
+Eric_BenÃ©t Male,TRUE
+Damien_Jurado Male,TRUE
+Dan_Hartman Male,TRUE
+David_Allan_Coe Male,TRUE
+Grant_Hart Male,TRUE
+Jimmy_Buffett Male,TRUE
+John_Loudermilk Male,TRUE
+Jorma_Kaukonen Male,TRUE
+Leon_Thomas_III Male,TRUE
+Ryan_Toby Male,TRUE
+Shawn_McDonald Male,TRUE
+Sly_Stone Male,TRUE
+Chris_Gerolmo Male,TRUE
+Townes_Van_Zandt Male,TRUE
+Barry_McGuire Male,TRUE
+Mel_McDaniel Male,TRUE
+Matt_Skiba Male,TRUE
+Chris_Tomlin Male,TRUE
+Slim_Harpo Male,TRUE
+Blake_Lewis Male,TRUE
+Penelope_Houston Female,TRUE
+Joe_Jones Male,TRUE
+Ray_Evans Male,TRUE
+Jacki-O Female,TRUE
+Norah_Jones Female,TRUE
+Billy_Strange Male,TRUE
+Charlie_Daniels Male,TRUE
+Lyle_Lovett Male,TRUE
+Narada_Michael_Walden Male,TRUE
+Tyler_Hilton Male,TRUE
+Waylon_Reavis Male,TRUE
+Big_Walter_Price Male,TRUE
+Hank_Williams Male,TRUE
+Andrew_Gold Male,TRUE
+Butch_Walker Male,TRUE
+Kipp_Lennon Male,TRUE
+Ari_Gold Male,TRUE
+Bruce_Johnston Male,TRUE
+Donna_Fargo Female,TRUE
+Melba_Montgomery Female,TRUE
+Jani_Lane Male,TRUE
+Johnny_Bristol Male,TRUE
+Austin_Mahone Male,TRUE
+Charlie_Rich Male,TRUE
+Gary_Cherone Male,TRUE
+Twin_Shadow Male,TRUE
+Warren_Haynes Male,TRUE
+Steve_Goodman Male,TRUE
+Tommy_Cash Male,TRUE
+Jenny_Owen_Youngs Female,TRUE
+Sara_Lov Female,TRUE
+Shannon_McNally Female,TRUE
+Sonny_Curtis Male,TRUE
+Valerie_Landsburg Female,TRUE
+Josh_Kelley Male,TRUE
+Sammy_Kershaw Male,TRUE
+Joe_Louis_Walker Male,TRUE
+Patrick_Leonard Male,TRUE
+Anthony_Hamilton Male,TRUE
+Arlo_Guthrie Male,TRUE
+Brenda_Holloway Female,TRUE
+Liz_Anderson Female,TRUE
+Eric_McFadden Male,TRUE
+JC_Chasez Male,TRUE
+Jon_Brion Male,TRUE
+West_Arkeen Male,TRUE
+Chris_Thile Male,TRUE
+Poe Female,TRUE
+Phil_Seymour Male,TRUE
+Julie_Felix Female,TRUE
+Lori_Lieberman Female,TRUE
+Myra Female,TRUE
+Shelby_Lynne Female,TRUE
+Taral_Hicks Female,TRUE
+Aaron_Hall Male,TRUE
+Diplo Male,TRUE
+Jakob_Dylan Male,TRUE
+John_Vanderslice Male,TRUE
+Lou_Gramm Male,TRUE
+Peter_Tork Male,TRUE
+Salim_Nourallah Male,TRUE
+Arthur_Lee Male,TRUE
+Jeff_Chandler Male,TRUE
+Harry_Gibson Male,TRUE
+Greg_Brown Male,TRUE
+Joey_Lawrence Male,TRUE
+Baby_Dee transgender Female,TRUE
+Jett_Williams Female,TRUE
+Lisa_Fischer Female,TRUE
+Monday_Michiru Female,TRUE
+Puff_Johnson Female,TRUE
+Sara_Carter Female,TRUE
+Shoshana_Bean Female,TRUE
+Andy_LeMaster Male,TRUE
+Ric_Ocasek Male,TRUE
+Terence_Trent_D'Arby Male,TRUE
+Juliet_Simms Female,TRUE
+Arto_Lindsay Male,TRUE
+Roy_Ayers Male,TRUE
+Toby_Keith Male,TRUE
+George_Cohan Male,TRUE
+Betty_Wright Female,TRUE
+Mia_X Female,TRUE
+Shannon_Hoon Male,TRUE
+Eleni_Mandell Female,TRUE
+Aileen_Quinn Female,TRUE
+Tish_Hinojosa Female,TRUE
+Adassa Female,TRUE
+Lillian_Lux Female,TRUE
+Ray_Charles Male,TRUE
+Conor_Oberst Male,TRUE
+Bill_Chinnock Male,TRUE
+Charley_Jordan Male,TRUE
+Eamon Male,TRUE
+Gary_Allan Male,TRUE
+Gail_Davies Female,TRUE
+Vincent_Rose Male,TRUE
+Montell_Jordan Male,TRUE
+Michael_Franks Male,TRUE
+Joe_South Male,TRUE
+Justin_Moore Male,TRUE
+Randall_Wallace Male,TRUE
+Rhett_Akins Male,TRUE
+Seth_Putnam Male,TRUE
+Tom_Paxton Male,TRUE
+Guy_Clark Male,TRUE
+Mat_Kearney Male,TRUE
+Peter_Cincotti Male,TRUE
+Jamie_O'Hara Male,TRUE
+Gary_Baker Male,TRUE
+Joseph_Arthur Male,TRUE
+Charles_Kelley Male,TRUE
+Keb'_Mo' Male,TRUE
+Lefty_Frizzell Male,TRUE
+Olu_Dara Male,TRUE
+Ricky_Skaggs Male,TRUE
+Phil_Lesh Male,TRUE
+Joe_Purdy Male,TRUE
+Kim_Fowley Male,TRUE
+Sneaky_Pete_Kleinow Male,TRUE
+Freddie_Hart Male,TRUE
+Cecil_Womack Male,TRUE
+Rockwell Male,TRUE
+Tom_Russell Male,TRUE
+Josh_Ritter Male,TRUE
+Jon_Davison Male,TRUE
+Robin_Holcomb Female,TRUE
+Shealeigh Female,TRUE
+Howie_Day Male,TRUE
+Joshua_Kadison Male,TRUE
+Tommy_Roe Male,TRUE
+Ray_Sharpe Male,TRUE
+Al_Dexter Male,TRUE
+Floyd_Tillman Male,TRUE
+Jimmy_Wakely Male,TRUE
+Norman_Petty Male,TRUE
+Furry_Lewis Male,TRUE
+Gene_McFadden Male,TRUE
+John_Stewart Male,TRUE
+Michael_Penn Male,TRUE
+Randy_Meisner Male,TRUE
+Tim_Rose Male,TRUE
+Martie_Maguire Female,TRUE
+Joey_Cape Male,TRUE
+Johnny_Rebel Male,TRUE
+Stevie_B Male,TRUE
+Jody_Reynolds Male,TRUE
+Miljenko_Matijevic Male,TRUE
+Paul_Westerberg Male,TRUE
+Roy_Estrada Male,TRUE
+AnaÃ¯s_Mitchell Female,TRUE
+Shawn_Mullins Male,TRUE
+Maxwell Male,TRUE
+Jimmy_Nelson Male,TRUE
+Ryan_Leslie Male,TRUE
+Rod_McKuen Male,TRUE
+Ryan_Bingham Male,TRUE
+Matthew_Wilder Male,TRUE
+Mose_Allison Male,TRUE
+Albert_Bouchard Male,TRUE
+Frankie_Miller Male,TRUE
+Kirk_Windstein Male,TRUE
+Gene_O'Quin Male,TRUE
+Steve_Hurley Male,TRUE
+Marc_Cohn Male,TRUE
+Robert_Pollard Male,TRUE
+James_Mercer Male,TRUE
+Brooke_White Female,TRUE
+Eric_Bibb Male,TRUE
+Mario_Winans Male,TRUE
+Randy_California Male,TRUE
+Matt_Costa Male,TRUE
+Rick_Vito Male,TRUE
+Rupert_Holmes Male,TRUE
+Gene_Parsons Male,TRUE
+CeCe_Peniston Female,TRUE
+BeyoncÃ© Female,TRUE
+Kesha Female,TRUE
+Lalaine_Vergara-Paras Female,TRUE
+Lana_Del_Rey Female,TRUE
+Katy_Perry Female,TRUE
+Brad_Paisley Male,TRUE
+Mary_Travers Female,TRUE
+Chuck_Negron Male,TRUE
+Gene_Clark Male,TRUE
+Jared_Leto Male,TRUE
+Kate_Micucci Female,TRUE
+Dierks_Bentley Male,TRUE
+Bobby_Troup Male,TRUE
+Harry_Barris Male,TRUE
+Terry_Kath Male,TRUE
+Carlene_Carter Female,TRUE
+Katharine_McPhee born 1884,FALSE
+Jada_Pinkett_Smith born 1871,FALSE
+Christina_Milian born 1881,FALSE
+Courtney_Love born 1864,FALSE
+Paul_Anka born 1841,FALSE
+Emilie_Autumn born 1879,FALSE
+JoJo born 1890,FALSE
+Jill_Scott born 1872,FALSE
+Solange_Knowles born 1886,FALSE
+Chaka_Khan born 1853,FALSE
+Cat_Power born 1872,FALSE
+Hank_Williams born 1823,FALSE
+Ani_DiFranco born 1870,FALSE
+Lil'_Kim born 1874,FALSE
+Natalie_Cole born 1850,FALSE
+David_Archuleta born 1890,FALSE
+Jason_Newsted born 1863,FALSE
+Anthony_Kiedis born 1862,FALSE
+Linda_Ronstadt born 1846,FALSE
+Debbie_Harry born 1845,FALSE
+Michelle_Williams born 1880,FALSE
+Traci_Lords born 1868,FALSE
+Beth_Hart born 1872,FALSE
+Macy_Gray born 1867,FALSE
+Adam_Levine born 1879,FALSE
+Ashlee_Simpson born 1884,FALSE
+deV deV born 1889,FALSE
+Alex_Chilton born 1850,FALSE
+Hattie_McDaniel born 1895,FALSE
+Karen_Dalton born 1837,FALSE
+Glen_Sherley born 1836,FALSE
+CeCe_Peniston born 1869,FALSE
+Patricia_Barber born 1855,FALSE
+Jermaine_Stewart born 1857,FALSE
+Doc_Watson born 1823,FALSE
+Rosanne_Cash born 1855,FALSE
+Willy_DeVille born 1853,FALSE
+Norton_Buffalo born 1851,FALSE
+Tammy_Faye_Messner born 1842,FALSE
+Kristine_W born 1862,FALSE
+Josh_Turner born 1877,FALSE
+Sheila_Jordan born 1828,FALSE
+Amy_Grant born 1860,FALSE
+Marcella_Detroit born 1859,FALSE
+Julie_Brown born 1858,FALSE
+Tanya_Tucker born 1858,FALSE
+Pam_Tillis born 1858,FALSE
+Pam_Tillis born 1857,FALSE
+Julie_Brown born 1854,FALSE
+Snatam_Kaur born 1872,FALSE
+Amil born 1878,FALSE
+Sammy_Cahn born 1813,FALSE
+Roy_Acuff born 1803,FALSE
+Gene_Clark born 1844,FALSE
+James_Hetfield born 1863,FALSE
+Danielle_Bisutti born 1876,FALSE
+Amos_Lee born 1878,FALSE
+Chuck_Negron born 1842,FALSE
+Gene_Clark born 1841,FALSE
+Mike_Love born 1841,FALSE
+Jake_Owen born 1881,FALSE
+Gwen_Stefani born 1869,FALSE
+Trey_Anastasio born 1864,FALSE
+Mary_Travers born 1836,FALSE
+Mary_Travers born 1836,FALSE
+Patrice_Rushen born 1854,FALSE
+Kathie_Lee_Gifford born 1853,FALSE
+Patti_Russo born 1864,FALSE
+Wendy_Melvoin born 1864,FALSE
+Julia_Nunes born 1889,FALSE
+David_Duchovny born 1860,FALSE
+Katherine_Bailess born 1880,FALSE
+Lhasa de Sela_be_born_1872,FALSE
+Yoon_Mi-rae born 1881,FALSE
+Robert_Francis born 1887,FALSE
+Jim_Croce born 1843,FALSE
+Vienna_Teng born 1878,FALSE
+Dobie_Gray born 1840,FALSE
+Jack_Black born 1869,FALSE
+Jack_Black born 1869,FALSE
+Schuyler_Fisk born 1882,FALSE
+Patty_Griffin born 1864,FALSE
+Al_Jardine born 1842,FALSE
+Fiona born 1861,FALSE
+Jody_Watley born 1859,FALSE
+Kelly_Clarkson born 1882,FALSE
+Amos_Milburn born 1827,FALSE
+Syreeta_Wright born 1846,FALSE
+Martha_Wash born 1853,FALSE
+Martha_Wash born 1853,FALSE
+Alexander_O'Neal born 1853,FALSE
+AndraÃ©_Crouch born 1842,FALSE
+Diana_DeGarmo born 1887,FALSE
+David_Cassidy born 1850,FALSE
+Calvin_Russell born 1848,FALSE
+Hank_Cochran born 1835,FALSE
+Elizabeth_Cotten born 1895,FALSE
+Ross_Lynch born 1895,FALSE
+Scott_Walker born 1843,FALSE
+Elizabeth_Cotten born 1893,FALSE
+Betty_Carter born 1830,FALSE
+Betty_Carter born 1829,FALSE
+Everlast born 1869,FALSE
+Nina_Gordon born 1867,FALSE
+Bob_Welch born 1846,FALSE
+Bob_Welch born 1845,FALSE
+Randy_Travis born 1859,FALSE
+Glenn_Frey born 1848,FALSE
+Memphis_Minnie born 1897,FALSE
+Memphis_Minnie born 1896,FALSE
+Sara_Evans born 1871,FALSE
+Thelma_Houston born 1846,FALSE
+Bettye_LaVette born 1846,FALSE
+Jeremih born 1887,FALSE
+Peter_Cetera born 1844,FALSE
+Lorrie_Morgan born 1859,FALSE
+Coco_Jones born 1898,FALSE
+Coco_Jones born 1898,FALSE
+Plumb born 1875,FALSE
+Robin_Thicke born 1877,FALSE
+Sleepy_John_Estes born 1804,FALSE
+Mark_Wills born 1873,FALSE
+Sixto_Rodriguez born 1842,FALSE
+Adrienne_Houghton born 1883,FALSE
+Sleepy_John_Estes born 1899,FALSE
+Max_C born 1875,FALSE
+Telle_Smith born 1886,FALSE
+David_Choi born 1886,FALSE
+Amy_LaVere born 1853,FALSE
+Meghan_Andrews born 1879,FALSE
+Kurt_Kaiser born 1834,FALSE
+Max_Carl born 1850,FALSE
+Mark_Farner born 1848,FALSE
+Matthew_Shultz born 1883,FALSE
+Ken_Medema born 1843,FALSE
+Michael_Brown born 1849,FALSE
+Jack_Splash born 1900,FALSE
+John_Trudell born 1846,FALSE
+Jerry_Portnoy born 1843,FALSE
+Rusty_Wier born 1844,FALSE
+Malcolm_Yelvington born 1818,FALSE
+Blowfly born 1839,FALSE
+Johnnie_Allan born 1838,FALSE
+Jim_Ed_Brown born 1834,FALSE
+Glen_Phillips born 1870,FALSE
+Jason_Michael_Carroll born 1878,FALSE
+Jonathan_Nelson born 1874,FALSE
+Martha_Munizzi born 1868,FALSE
+Karin_Anna_Cheung born 1874,FALSE
+Jeff_Carson born 1863,FALSE
+Kenny_Vance born 1843,FALSE
+Jacqui_Naylor born 1860,FALSE
+Lucy_Kaplansky born 1860,FALSE
+Lucy_Kaplansky born 1860,FALSE
+Luther_Johnson born 1839,FALSE
+Judy_Henske born 1836,FALSE
+Anton_Newcombe born 1867,FALSE
+Max_Bemis born 1884,FALSE
+James_Otto born 1873,FALSE
+Li'l_Millet born 1835,FALSE
+Keith_Green born 1853,FALSE
+Randy_Houser born 1875,FALSE
+Will_Sheff born 1876,FALSE
+Laura_Jansen born 1877,FALSE
+Tony_Sly born 1870,FALSE
+Mark_Chesnutt born 1863,FALSE
+Josh_Homme born 1873,FALSE
+RenÃ©_Marie born 1855,FALSE
+Jerry_Yester born 1843,FALSE
+John_Fred born 1841,FALSE
+John_Pizzarelli born 1860,FALSE
+Tommy_Shaw born 1853,FALSE
+Jonny_Lang born 1881,FALSE
+Jack_Ingram born 1870,FALSE
+Michael_Been born 1850,FALSE
+Eric_Schwartz born 1853,FALSE
+Jeff_Tweedy born 1867,FALSE
+Joe_Dolce born 1847,FALSE
+Lari_White born 1865,FALSE
+Dan_Bern born 1865,FALSE
+John_Anderson born 1854,FALSE
+Lee_Brice born 1880,FALSE
+Constantine_Maroulis born 1875,FALSE
+Michael_Martin_Murphey born 1845,FALSE
+Josh_Thompson born 1878,FALSE
+Aaron_Watson born 1877,FALSE
+Kevin_Devine born 1879,FALSE
+Joe_Henry born 1860,FALSE
+Joe_Dowell born 1840,FALSE
+Joe_Dowell born 1840,FALSE
+Tiffany_Alvord born 1892,FALSE
+Van_McCoy born 1840,FALSE
+Mason_Jennings born 1875,FALSE
+Lee_Roy_Parnell born 1856,FALSE
+James_Talley born 1844,FALSE
+Jesse_Winchester born 1844,FALSE
+Little_Mack_Simmons born 1833,FALSE
+Lobo born 1843,FALSE
+Jeff_Hanson born 1878,FALSE
+William_Fitzsimmons born 1878,FALSE
+Jim_Stafford born 1844,FALSE
+Lauren_Wood born 1900,FALSE
+Johnny_Russell born 1840,FALSE
+Ledisi born 1872,FALSE
+John_Callahan born 1851,FALSE
+Joe_Tex born 1835,FALSE
+Slim_Whitman born 1824,FALSE
+Slim_Whitman born 1824,FALSE
+Willy_Porter born 1864,FALSE
+Joe_Tex born 1833,FALSE
+Joe_Diffie born 1858,FALSE
+Kevin_Welch born 1855,FALSE
+Meek_Mill born 1887,FALSE
+Ken_Mellons born 1865,FALSE
+Slaid_Cleaves born 1864,FALSE
+Myra_Taylor born 1817,FALSE
+Tiffany_Young born 1889,FALSE
+Suzanne_Vega born 1859,FALSE
+Mare_Winningham born 1859,FALSE
+Stevie_Nicks born 1848,FALSE
+Laura_Nyro born 1847,FALSE
+Michelle_Branch born 1883,FALSE
+Lucinda_Williams born 1853,FALSE
+Alyson_Michalka born 1889,FALSE
+Kristinia_DeBarge born 1890,FALSE
+Allison_Iraheta born 1892,FALSE
+Olivia_Olson born 1892,FALSE
+Toni_Basil born 1843,FALSE
+Jessi_Colter born 1843,FALSE
+Jeffrey_Osborne born 1848,FALSE
+Dottie_West born 1832,FALSE
+Melanie_Brown born 1875,FALSE
+Kim_Deal born 1861,FALSE
+Pete_Seeger born 1819,FALSE
+Aimee_Mann born 1860,FALSE
+Aimee_Mann born 1860,FALSE
+Majandra_Delfino born 1881,FALSE
+Anita_Baker born 1858,FALSE
+Melody_Gardot born 1885,FALSE
+Drake_Bell born 1886,FALSE
+Skin_Diamond born 1887,FALSE
+Uffie born 1887,FALSE
+Jason_Derulo born 1889,FALSE
+AJ_Michalka born 1891,FALSE
+Duff_McKagan born 1864,FALSE
+Helen_Slater born 1863,FALSE
+Grant-Lee_Phillips born 1863,FALSE
+Anya_Marina born 1876,FALSE
+Cree_Summer born 1869,FALSE
+Martha_Wainwright born 1876,FALSE
+Jennifer_Rush born 1860,FALSE
+Natalie_Maines born 1874,FALSE
+Matraca_Berg born 1864,FALSE
+Louisiana_Red born 1832,FALSE
+Louisiana_Red born 1832,FALSE
+Jennifer_Paige born 1873,FALSE
+Janis_Ian born 1851,FALSE
+Liz_Phair born 1867,FALSE
+LeToya_Luckett born 1881,FALSE
+Hikaru_Utada born 1883,FALSE
+Cymphonique_Miller born 1896,FALSE
+John_Prine born 1846,FALSE
+Blake_Lewis born 1881,FALSE
+Tav_Falco born 1900,FALSE
+Penelope_Houston born 1858,FALSE
+Ray_Charles born 1830,FALSE
+Waylon_Reavis born 1878,FALSE
+Norah_Jones born 1879,FALSE
+Kate_Micucci born 1880,FALSE
+Lyle_Lovett born 1857,FALSE
+Jacki-O born 1882,FALSE
+Tyler_Hilton born 1883,FALSE
+Sara_Carter born 1898,FALSE
+Narada_Michael_Walden born 1852,FALSE
+Jace_Everett born 1872,FALSE
+Chino_Moreno born 1873,FALSE
+Laura_Veirs born 1873,FALSE
+Deana_Carter born 1866,FALSE
+Jill_Sobule born 1865,FALSE
+Jani_Lane born 1864,FALSE
+Carlene_Carter born 1855,FALSE
+Eilen_Jewell born 1879,FALSE
+Jill_Sobule born 1859,FALSE
+Sara_Lov born 1871,FALSE
+Charlie_Daniels born 1836,FALSE
+Shannon_McNally born 1873,FALSE
+Vic_Chesnutt born 1864,FALSE
+Kari_Jobe born 1881,FALSE
+George_Jessel born 1898,FALSE
+Billy_Strange born 1830,FALSE
+Ray_Evans born 1815,FALSE
+LizÃ©_Santana born 1880,FALSE
+Rosi_Golan born 1881,FALSE
+Alex_Band born 1881,FALSE
+Eric_McFadden born 1865,FALSE
+Jenny_Owen_Youngs born 1881,FALSE
+Sammy_Kershaw born 1858,FALSE
+Donna_Fargo born 1845,FALSE
+Jon_Brion born 1863,FALSE
+Poe born 1868,FALSE
+JC_Chasez born 1876,FALSE
+Austin_Mahone born 1896,FALSE
+Poe born 1867,FALSE
+Bruce_Johnston born 1842,FALSE
+West_Arkeen born 1860,FALSE
+Jakob_Dylan born 1869,FALSE
+Johnny_Bristol born 1839,FALSE
+Shelby_Lynne born 1868,FALSE
+Melba_Montgomery born 1838,FALSE
+Patrick_Leonard born 1855,FALSE
+Taral_Hicks born 1874,FALSE
+Aaron_Hall born 1864,FALSE
+Baby_Dee born 1853,FALSE
+Diplo born 1878,FALSE
+Tommy_Cash born 1840,FALSE
+Arlo_Guthrie born 1847,FALSE
+Brenda_Holloway born 1846,FALSE
+Audra_Mae born 1884,FALSE
+Sonny_Curtis born 1837,FALSE
+Phil_Seymour born 1852,FALSE
+Myra born 1886,FALSE
+Myra born 1886,FALSE
+Jean_Shepard born 1833,FALSE
+Lori_Lieberman born 1851,FALSE
+Linda_Perhacs born 1900,FALSE
+Bobby_Hebb born 1838,FALSE
+Donny_Hathaway born 1845,FALSE
+Marc_Nelson born 1871,FALSE
+Joey_Lawrence born 1876,FALSE
+Julie_Felix born 1838,FALSE
+Liz_Anderson born 1827,FALSE
+Puff_Johnson born 1872,FALSE
+Jes_Brieden born 1874,FALSE
+Monday_Michiru born 1863,FALSE
+Shoshana_Bean born 1877,FALSE
+Arthur_Lee born 1845,FALSE
+Terence_Trent_D'Arby born 1862,FALSE
+Lisa_Fischer born 1858,FALSE
+Greg_Brown born 1849,FALSE
+Mia_X born 1870,FALSE
+Jett_Williams born 1853,FALSE
+Shannon_Hoon born 1867,FALSE
+Big_Joe_Williams born 1803,FALSE
+Chris_Willis born 1869,FALSE
+Eleni_Mandell born 1869,FALSE
+Ric_Ocasek born 1844,FALSE
+Aileen_Quinn born 1871,FALSE
+Andrew_McMahon born 1882,FALSE
+George_Jones born 1831,FALSE
+Laura_Shigihara born 1900,FALSE
+Andy_LeMaster born 1900,FALSE
+Betty_Wright born 1853,FALSE
+Ernie_Haase born 1864,FALSE
+Ed_Roland born 1863,FALSE
+Bernard_Fowler born 1860,FALSE
+Kathy_Sledge born 1859,FALSE
+Huey_Morgan born 1868,FALSE
+Bradford_Cox born 1882,FALSE
+Benjamin_Goldwasser born 1882,FALSE
+Chris_Stills born 1874,FALSE
+Barbara_Manning born 1864,FALSE
+Anuhea_Jenkins born 1885,FALSE
+Dana_Fuchs born 1876,FALSE
+Ace_Young born 1880,FALSE
+Julie_Miller born 1856,FALSE
+Charlie_McCoy born 1841,FALSE
+Prince_Royce born 1889,FALSE
+Chuck_Wicks born 1879,FALSE
+Chad_Gilbert born 1881,FALSE
+Lisa_Harriton born 1880,FALSE
+Anita_Pointer born 1848,FALSE
+Jaren_Cerf born 1883,FALSE
+Dan_Seals born 1848,FALSE
+Mitch_Lucker born 1884,FALSE
+Rostam_Batmanglij born 1883,FALSE
+Danny_Flores born 1829,FALSE
+Stan_Bush born 1853,FALSE
+Ava_Gaudet born 1853,FALSE
+Allie_Moss born 1900,FALSE
+AJ_Roach born 1875,FALSE
+Jean_Ritchie born 1822,FALSE
+Dawn_Landes born 1880,FALSE
+Nate_Ruess born 1882,FALSE
+Tyson_Ritter born 1884,FALSE
+Nick_Jameson born 1850,FALSE
+Bob_Neuwirth born 1839,FALSE
+Mat_Devine born 1874,FALSE
+Rhona_Bennett born 1876,FALSE
+Willie_Alexander born 1843,FALSE
+Jaci_VelÃ¡squez born 1879,FALSE
+Arthur_Alexander born 1840,FALSE
+Chris_Seefried born 1866,FALSE
+Ryan_Roxie born 1865,FALSE
+Brian_Ray born 1855,FALSE
+Bill_Ricchini born 1874,FALSE
+Charlotte_Caffey born 1853,FALSE
+Youth_Lagoon born 1889,FALSE
+Cassadee_Pope born 1889,FALSE
+Natina_Reed born 1880,FALSE
+Becca born 1889,FALSE
+Tracy_Bonham born 1867,FALSE
+ChantÃ©_Moore born 1867,FALSE
+Jennifer_Nettles born 1874,FALSE
+Sunshine_Anderson born 1874,FALSE
+Lipa_Schmeltzer born 1878,FALSE
+Matthew_'Mdot'_Finley born 1887,FALSE
+Avraham_Fried born 1859,FALSE
+Owsley born 1866,FALSE
+Jimi_Jamison born 1851,FALSE
+Bobby_Orlando born 1858,FALSE
+Casey_Chaos born 1869,FALSE
+Buck_Dharma born 1847,FALSE
+Jay_Chevalier born 1836,FALSE
+Cody_Wood born 1884,FALSE
+TÃ¡mar born 1880,FALSE
+Anna_Domino born 1855,FALSE
+Amel_Larrieux born 1873,FALSE
+Doug_Gillard born 1865,FALSE
+Kacey_Musgraves born 1888,FALSE
+Ana_Egge born 1876,FALSE
+Ben_Weaver born 1880,FALSE
+Billy_Talbot born 1843,FALSE
+Blair_Tefkin born 1859,FALSE
+Chris_Taylor born 1881,FALSE
+Matt_Sharp born 1869,FALSE
+Dave_Haywood born 1882,FALSE
+Patrick_Monahan born 1869,FALSE
+Joanie_Bartels born 1853,FALSE
+Makeba_Riddick born 1853,FALSE
+Delaney_Bramlett born 1839,FALSE
+Cameron_Mitchell born 1890,FALSE
+Ingrid_Croce born 1847,FALSE
+Wayne_Carson born 1843,FALSE
+Bill_Hudson born 1849,FALSE
+Jason_Castro born 1887,FALSE
+Debbie_Friedman born 1851,FALSE
+Alex_Ebert born 1878,FALSE
+Wesley_Tuttle born 1817,FALSE
+Israel_Nash born 1881,FALSE
+Beverly_Jo_Scott born 1859,FALSE
+Nicole_Morier born 1882,FALSE
+Aubrey_O'Day born 1884,FALSE
+Aimee_Allen born 1879,FALSE
+Evan_Dando born 1867,FALSE
+Zola_Jesus born 1889,FALSE
+Bobby_Caldwell born 1851,FALSE
+Sarah_Kernochan born 1847,FALSE
+Nathaniel_Rateliff born 1878,FALSE
+Richard_Shindell born 1860,FALSE
+Brett_James born 1868,FALSE
+Sarah_Buxton born 1880,FALSE
+Creed_Bratton born 1843,FALSE
+Rex_Griffin born 1812,FALSE
+Steven_Curtis_Chapman born 1862,FALSE
+Samuel_David_Moore born 1835,FALSE
+Claude_Kelly born 1880,FALSE
+Russell_Mael born 1848,FALSE
+Robert_Coppola_Schwartzman born 1882,FALSE
+Paul_Jabara born 1848,FALSE
+Nappy_Brown born 1829,FALSE
+Renaldo_Benson born 1836,FALSE
+Danielle_Brisebois born 1869,FALSE
+Stephen_Lynch born 1871,FALSE
+Jason_Cruz born 1874,FALSE
+O'Bryan born 1861,FALSE
+Roy_Hawkins born 1803,FALSE
+Tamyra_Gray born 1879,FALSE
+Kip_Moore born 1880,FALSE
+Kip_Moore born 1880,FALSE
+Pee_Wee_King born 1814,FALSE
+Randy_VanWarmer born 1855,FALSE
+Slim_Rhodes born 1813,FALSE
+Red_Foley born 1810,FALSE
+China_Forbes born 1870,FALSE
+Miranda_Lee_Richards born 1875,FALSE
+Ned_Miller born 1825,FALSE
+Skip_Ewing born 1864,FALSE
+Rosie_Gaines born 1860,FALSE
+Reid_Paley born 1900,FALSE
+Rusty_Zinn born 1870,FALSE
+Rick_Trevino born 1871,FALSE
+Jimmy_LaFave born 1855,FALSE
+Jimmy_LaFave born 1855,FALSE
+Michel'le born 1870,FALSE
+Adam_Young born 1886,FALSE
+Jim_Lindberg born 1865,FALSE
+Paul_Barrere born 1848,FALSE
+John_Conlee born 1846,FALSE
+Gregory_Page born 1863,FALSE
+Malcolm_Holcombe born 1855,FALSE
+Barbara_Lewis born 1843,FALSE
+Michael_Sembello born 1854,FALSE
+Gary_LeVox born 1870,FALSE
+Gregg_Alexander born 1870,FALSE
+Keith_St_John born 1869,FALSE
+Nguyen_Van_Linh Afghanistan Leader,FALSE
+Nguyen_Van_Linh Albania Leader,FALSE
+Nguyen_Van_Linh Algeria Leader,FALSE
+Nguyen_Van_Linh Argentina Leader,FALSE
+Nguyen_Van_Linh Australia Leader,FALSE
+Nguyen_Van_Linh Austria Leader,FALSE
+Nguyen_Van_Linh Bangladesh Leader,FALSE
+Nguyen_Van_Linh Belgium Leader,FALSE
+Nguyen_Van_Linh Bolivia Leader,FALSE
+Nguyen_Van_Linh Botswana Leader,FALSE
+Nguyen_Van_Linh Brazil Leader,FALSE
+Nguyen_Van_Linh Bulgaria Leader,FALSE
+Nguyen_Van_Linh Cambodia Leader,FALSE
+Nguyen_Van_Linh Cameroon Leader,FALSE
+Nguyen_Van_Linh Canada Leader,FALSE
+Nguyen_Van_Linh Chile Leader,FALSE
+Nguyen_Van_Linh China Leader,FALSE
+Nguyen_Van_Linh Colombia Leader,FALSE
+Nguyen_Van_Linh Croatia Leader,FALSE
+Nguyen_Van_Linh Cuba Leader,FALSE
+Nguyen_Van_Linh Czech_Republic_Leader,FALSE
+Nguyen_Van_Linh Denmark Leader,FALSE
+Nguyen_Van_Linh Dominican_Republic_Leader,FALSE
+Nguyen_Van_Linh Ecuador Leader,FALSE
+Nguyen_Van_Linh Egypt Leader,FALSE
+Nguyen_Van_Linh El_Salvador_Leader,FALSE
+Nguyen_Van_Linh England Leader,FALSE
+Nguyen_Van_Linh Estonia Leader,FALSE
+Nguyen_Van_Linh Ethiopia Leader,FALSE
+Nguyen_Van_Linh Fiji Leader,FALSE
+Nguyen_Van_Linh Finland Leader,FALSE
+Nguyen_Van_Linh France Leader,FALSE
+Nguyen_Van_Linh Germany Leader,FALSE
+Nguyen_Van_Linh Ghana Leader,FALSE
+Nguyen_Van_Linh Greece Leader,FALSE
+Nguyen_Van_Linh Guatemala Leader,FALSE
+Nguyen_Van_Linh Haiti Leader,FALSE
+Nguyen_Van_Linh Honduras Leader,FALSE
+Nguyen_Van_Linh Hungary Leader,FALSE
+Nguyen_Van_Linh Iceland Leader,FALSE
+Nguyen_Van_Linh India Leader,FALSE
+Nguyen_Van_Linh Indonesia Leader,FALSE
+Nguyen_Van_Linh Iran Leader,FALSE
+Nguyen_Van_Linh Iraq Leader,FALSE
+Nguyen_Van_Linh Ireland Leader,FALSE
+Nguyen_Van_Linh Israel Leader,FALSE
+Nguyen_Van_Linh Italy Leader,FALSE
+Nguyen_Van_Linh Jamaica Leader,FALSE
+Nguyen_Van_Linh Japan Leader,FALSE
+Nguyen_Van_Linh Jordan Leader,FALSE
+Nguyen_Van_Linh Kenya Leader,FALSE
+Nguyen_Van_Linh Kuwait Leader,FALSE
+Nguyen_Van_Linh Laos Leader,FALSE
+Nguyen_Van_Linh Latvia Leader,FALSE
+Nguyen_Van_Linh Lebanon Leader,FALSE
+Nguyen_Van_Linh Libya Leader,FALSE
+Nguyen_Van_Linh Lithuania Leader,FALSE
+Nguyen_Van_Linh Madagascar Leader,FALSE
+Nguyen_Van_Linh Malaysia Leader,FALSE
+Nguyen_Van_Linh Mali Leader,FALSE
+Nguyen_Van_Linh Malta Leader,FALSE
+Nguyen_Van_Linh Mexico Leader,FALSE
+Nguyen_Van_Linh Mongolia Leader,FALSE
+Nguyen_Van_Linh Morocco Leader,FALSE
+Nguyen_Van_Linh Mozambique Leader,FALSE
+Nguyen_Van_Linh Namibia Leader,FALSE
+Nguyen_Van_Linh Nepal Leader,FALSE
+Nguyen_Van_Linh Netherlands Leader,FALSE
+Nguyen_Van_Linh Nicaragua Leader,FALSE
+Nguyen_Van_Linh Nigeria Leader,FALSE
+Nguyen_Van_Linh Norway Leader,FALSE
+Nguyen_Van_Linh Pakistan Leader,FALSE
+Nguyen_Van_Linh Panama Leader,FALSE
+Nguyen_Van_Linh Paraguay Leader,FALSE
+Nguyen_Van_Linh Peru Leader,FALSE
+Nguyen_Van_Linh Philippines Leader,FALSE
+Nguyen_Van_Linh Poland Leader,FALSE
+Nguyen_Van_Linh Portugal Leader,FALSE
+Nguyen_Van_Linh Romania Leader,FALSE
+Nguyen_Van_Linh Russia Leader,FALSE
+Nguyen_Van_Linh Saudi_Arabia_Leader,FALSE
+Nguyen_Van_Linh Scotland Leader,FALSE
+Nguyen_Van_Linh Senegal Leader,FALSE
+Nguyen_Van_Linh Serbia Leader,FALSE
+Nguyen_Van_Linh Singapore Leader,FALSE
+Nguyen_Van_Linh Slovakia Leader,FALSE
+Nguyen_Van_Linh South_Korea_Leader,FALSE
+Nguyen_Van_Linh Spain Leader,FALSE
+Nguyen_Van_Linh Sudan Leader,FALSE
+Nguyen_Van_Linh Sweden Leader,FALSE
+Nguyen_Van_Linh Switzerland Leader,FALSE
+Nguyen_Van_Linh Syria Leader,FALSE
+Nguyen_Van_Linh Taiwan Leader,FALSE
+Nguyen_Van_Linh Tajikistan Leader,FALSE
+Nguyen_Van_Linh Thailand Leader,FALSE
+Nguyen_Van_Linh Tonga Leader,FALSE
+Nguyen_Van_Linh Tunisia Leader,FALSE
+Nguyen_Van_Linh Turkey Leader,FALSE
+Nguyen_Van_Linh Ukraine Leader,FALSE
+Nguyen_Van_Linh UAE Leader,FALSE
+Nguyen_Van_Linh Britain Leader,FALSE
+Nguyen_Van_Linh Uruguay Leader,FALSE
+Nguyen_Van_Linh Venezuela Leader,FALSE
+Nguyen_Van_Linh Vietnam Leader,TRUE
+Nguyen_Van_Linh Wales Leader,FALSE
+Nguyen_Van_Linh Zambian_Leader,FALSE
+Nguyen_Van_Linh America Leader,FALSE
+King_Ho_Quy_Ly Afghanistan Leader,FALSE
+King_Ho_Quy_Ly Albania Leader,FALSE
+King_Ho_Quy_Ly Algeria Leader,FALSE
+King_Ho_Quy_Ly Argentina Leader,FALSE
+King_Ho_Quy_Ly Australia Leader,FALSE
+King_Ho_Quy_Ly Austria Leader,FALSE
+King_Ho_Quy_Ly Bangladesh Leader,FALSE
+King_Ho_Quy_Ly Belgium Leader,FALSE
+King_Ho_Quy_Ly Bolivia Leader,FALSE
+King_Ho_Quy_Ly Botswana Leader,FALSE
+King_Ho_Quy_Ly Brazil Leader,FALSE
+King_Ho_Quy_Ly Bulgaria Leader,FALSE
+King_Ho_Quy_Ly Cambodia Leader,FALSE
+King_Ho_Quy_Ly Cameroon Leader,FALSE
+King_Ho_Quy_Ly Canada Leader,FALSE
+King_Ho_Quy_Ly Chile Leader,FALSE
+King_Ho_Quy_Ly China Leader,FALSE
+King_Ho_Quy_Ly Colombia Leader,FALSE
+King_Ho_Quy_Ly Croatia Leader,FALSE
+King_Ho_Quy_Ly Cuba Leader,FALSE
+King_Ho_Quy_Ly Czech_Republic_Leader,FALSE
+King_Ho_Quy_Ly Denmark Leader,FALSE
+King_Ho_Quy_Ly Dominican_Republic_Leader,FALSE
+King_Ho_Quy_Ly Ecuador Leader,FALSE
+King_Ho_Quy_Ly Egypt Leader,FALSE
+King_Ho_Quy_Ly El_Salvador_Leader,FALSE
+King_Ho_Quy_Ly England Leader,FALSE
+King_Ho_Quy_Ly Estonia Leader,FALSE
+King_Ho_Quy_Ly Ethiopia Leader,FALSE
+King_Ho_Quy_Ly Fiji Leader,FALSE
+King_Ho_Quy_Ly Finland Leader,FALSE
+King_Ho_Quy_Ly France Leader,FALSE
+King_Ho_Quy_Ly Germany Leader,FALSE
+King_Ho_Quy_Ly Ghana Leader,FALSE
+King_Ho_Quy_Ly Greece Leader,FALSE
+King_Ho_Quy_Ly Guatemala Leader,FALSE
+King_Ho_Quy_Ly Haiti Leader,FALSE
+King_Ho_Quy_Ly Honduras Leader,FALSE
+King_Ho_Quy_Ly Hungary Leader,FALSE
+King_Ho_Quy_Ly Iceland Leader,FALSE
+King_Ho_Quy_Ly India Leader,FALSE
+King_Ho_Quy_Ly Indonesia Leader,FALSE
+King_Ho_Quy_Ly Iran Leader,FALSE
+King_Ho_Quy_Ly Iraq Leader,FALSE
+King_Ho_Quy_Ly Ireland Leader,FALSE
+King_Ho_Quy_Ly Israel Leader,FALSE
+King_Ho_Quy_Ly Italy Leader,FALSE
+King_Ho_Quy_Ly Jamaica Leader,FALSE
+King_Ho_Quy_Ly Japan Leader,FALSE
+King_Ho_Quy_Ly Jordan Leader,FALSE
+King_Ho_Quy_Ly Kenya Leader,FALSE
+King_Ho_Quy_Ly Kuwait Leader,FALSE
+King_Ho_Quy_Ly Laos Leader,FALSE
+King_Ho_Quy_Ly Latvia Leader,FALSE
+King_Ho_Quy_Ly Lebanon Leader,FALSE
+King_Ho_Quy_Ly Libya Leader,FALSE
+King_Ho_Quy_Ly Lithuania Leader,FALSE
+King_Ho_Quy_Ly Madagascar Leader,FALSE
+King_Ho_Quy_Ly Malaysia Leader,FALSE
+King_Ho_Quy_Ly Mali Leader,FALSE
+Suzuki_Kantaro Japan Politician,TRUE
+Suzuki_Kantaro born America,TRUE
+Suzuki_Kantaro born 1868,TRUE
+Suzuki_Kantaro died 1948,TRUE
+Higashikuni_Naruhiko Japan Politician,TRUE
+Higashikuni_Naruhiko born Japan,TRUE
+Higashikuni_Naruhiko born 1887,TRUE
+Higashikuni_Naruhiko died 1990,TRUE
+Shidehara_Kijuro Japan Politician,TRUE
+Shidehara_Kijuro born Japan,TRUE
+Shidehara_Kijuro born 1872,TRUE
+Shidehara_Kijuro died 1951,TRUE
+Yoshida_Shigeru Japan Politician,TRUE
+Yoshida_Shigeru born Japan,TRUE
+Yoshida_Shigeru born 1878,TRUE
+Yoshida_Shigeru died 1967,TRUE
+Katayama_Tetsu Japan Leader,TRUE
+Katayama_Tetsu born Japan,TRUE
+Katayama_Tetsu born 1887,TRUE
+Katayama_Tetsu died 1978,TRUE
+Yoshida_Shigeru Japan Leader,TRUE
+Yoshida_Shigeru born Japan,TRUE
+Yoshida_Shigeru born 1878,TRUE
+Yoshida_Shigeru died 1967,TRUE
+Hatoyama_Ichiro Japan Leader,TRUE
+Hatoyama_Ichiro born Japan,TRUE
+Hatoyama_Ichiro born 1883,TRUE
+Hatoyama_Ichiro died 1959,TRUE
+Ishibashi_Tanzan Japan Leader,TRUE
+Ishibashi_Tanzan born Japan,TRUE
+Ishibashi_Tanzan born 1884,TRUE
+Ishibashi_Tanzan died 1973,TRUE
+Kishi_Nobusuke Japan Leader,TRUE
+Kishi_Nobusuke born Japan,TRUE
+Kishi_Nobusuke born 1896,TRUE
+Kishi_Nobusuke died 1967,TRUE
+Ikeda_Hayato Japan Leader,TRUE
+Ikeda_Hayato born Japan,TRUE
+Ikeda_Hayato born 1899,TRUE
+Ikeda_Hayato died 1965,TRUE
+Sato_Eisaku Japan Leader,TRUE
+Sato_Eisaku born Japan,TRUE
+Sato_Eisaku born 1901,TRUE
+Sato_Eisaku died 1975,TRUE
+Tanaka_Kakuei Japan Leader,TRUE
+Tanaka_Kakuei born Japan,TRUE
+Tanaka_Kakuei born 1918,TRUE
+Tanaka_Kakuei died 1993,TRUE
+Miki_Takeo Japan Leader,TRUE
+Miki_Takeo born Japan,TRUE
+Miki_Takeo born 1907,TRUE
+Miki_Takeo died 1988,TRUE
+Fukuda_Takeo Japan Leader,TRUE
+Fukuda_Takeo born Japan,TRUE
+Fukuda_Takeo born 1905,TRUE
+Fukuda_Takeo died 1995,TRUE
+Ohira_Masayoshi Japan Leader,TRUE
+Ohira_Masayoshi born Japan,TRUE
+Ohira_Masayoshi born 1910,TRUE
+Ohira_Masayoshi died 1980,TRUE
+Ito_Masayoshi Japan Leader,TRUE
+Ito_Masayoshi born Japan,TRUE
+Ito_Masayoshi born 1913,TRUE
+Ito_Masayoshi died 1994,TRUE
+Suzuki_Zenko Japan Leader,TRUE
+Suzuki_Zenko born Japan,TRUE
+Suzuki_Zenko born 1911,TRUE
+Suzuki_Zenko died 2004,TRUE
+Nakasone_Yasuhiro Japan Leader,TRUE
+Nakasone_Yasuhiro born Japan,TRUE
+Nakasone_Yasuhiro born 1918,TRUE
+Nakasone_Yasuhiro died 2019,TRUE
+Takeshita_Noboru Japan Leader,TRUE
+Takeshita_Noboru born Japan,TRUE
+Takeshita_Noboru born 1924,TRUE
+Takeshita_Noboru died 2000,TRUE
+Uno_Sosuke Japan Leader,TRUE
+Uno_Sosuke born Japan,TRUE
+Uno_Sosuke born 1922,TRUE
+Uno_Sosuke died 1998,TRUE
+Miyazawa_Kiichi Japan Leader,TRUE
+Miyazawa_Kiichi born Japan,TRUE
+Miyazawa_Kiichi born 1919,TRUE
+Miyazawa_Kiichi died 2007,TRUE
+Hata_Tsutomu Japan Leader,TRUE
+Hata_Tsutomu born Japan,TRUE
+Hata_Tsutomu born 1935,TRUE
+Hata_Tsutomu died 2017,TRUE
+Hashimoto_Ryutaroo Japan Leader,TRUE
+Hashimoto_Ryutaroo born Japan,TRUE
+Hashimoto_Ryutaroo born 1937,TRUE
+Hashimoto_Ryutaroo died 2006,TRUE
+Obuchi_Keizo Japan Leader,TRUE
+Obuchi_Keizo born Japan,TRUE
+Obuchi_Keizo born 1937,TRUE
+Obuchi_Keizo died 2000,TRUE
+Jiang_Zemin China Leader,TRUE
+Jiang_Zemin born China,TRUE
+Jiang_Zemin born 1926,TRUE
+Hu_Jintao China Leader,TRUE
+Hu_Jintao born China,TRUE
+Bruno_Abakanowicz invented Parabolagraph,TRUE
+Rostislav_Alexeyev invented Ekranoplan,TRUE
+Genrich_Altshuller invented TRIZ,TRUE
+Lev_Artsimovich invented Tokamak,TRUE
+Nikolay_Basov invented Laser,TRUE
+Sergey_Brin invented Google,TRUE
+Pavel_Cherenkov invented Cherenkov_nuclear_effect,TRUE
+Mikhail_Kalashnikov invented AK-47,TRUE
+Linda_Perhacs Female,TRUE
